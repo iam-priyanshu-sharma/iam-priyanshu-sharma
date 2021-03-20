@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iam-priyanshu-sharma
 - 👀 I’m interested in ... learning new things..
 - 🌱 I’m currently learning ..."C language"
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... I don't need to collaborate to anybody now because i'm a beginner.
 - 📫 How to reach me ...
 
 <!---
