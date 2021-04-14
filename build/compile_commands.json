@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/TURBOC3/BIN/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\VsCode.dir\\VsCode.cpp.obj -c C:\\TURBOC3\\BIN\\VsCode.cpp",
+  "file": "C:/TURBOC3/BIN/VsCode.cpp"
+}
+]

@@ -1,0 +1,12 @@
+/*Program to show the use of caste operator(type conversion operator)*/
+#include<stdio.h>
+#include<conio.h>
+void main()
+     {
+     int x=5,y=2;
+     float z;
+     clrscr();
+     z=(float)(x/y);
+     printf("\nValue of z=%f",z);
+     getch();
+     }

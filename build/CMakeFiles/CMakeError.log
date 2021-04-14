@@ -1,0 +1,1030 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_fe63e/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_fe63e.dir\build.make CMakeFiles/cmTC_fe63e.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_fe63e.dir/CMakeCCompilerABI.c.obj
+C:\MinGW\bin\mingw32-gcc.exe   -v -o CMakeFiles\cmTC_fe63e.dir\CMakeCCompilerABI.c.obj -c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\MinGW\bin\mingw32-gcc.exe
+Target: mingw32
+Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --with-gmp=/mingw --with-mpfr --with-mpc=/mingw --with-isl=/mingw --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-6.3.0-1' --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --enable-libgomp --disable-libvtv --enable-nls
+Thread model: win32
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_fe63e.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1.exe -quiet -v -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=i586 -auxbase-strip CMakeFiles\cmTC_fe63e.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\sharm\AppData\Local\Temp\ccvOODGA.s
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include"
+ignoring duplicate directory "/mingw/lib/gcc/mingw32/6.3.0/../../../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include-fixed"
+ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed
+End of search list.
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 384cad586f05ed581a9c068b2f18b408
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_fe63e.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_fe63e.dir\CMakeCCompilerABI.c.obj C:\Users\sharm\AppData\Local\Temp\ccvOODGA.s
+GNU assembler version 2.28 (mingw32) using BFD version (GNU Binutils) 2.28
+COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
+LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_fe63e.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+Linking C executable cmTC_fe63e.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_fe63e.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_fe63e.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_fe63e.dir/objects.a @CMakeFiles\cmTC_fe63e.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_fe63e.dir\build.make:105: recipe for target 'cmTC_fe63e.exe' failed
+mingw32-make.exe[1]: *** [cmTC_fe63e.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_fe63e/fast' failed
+mingw32-make.exe: *** [cmTC_fe63e/fast] Error 2
+
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_02a7a/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_02a7a.dir\build.make CMakeFiles/cmTC_02a7a.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_02a7a.dir/CMakeCCompilerABI.c.obj
+C:\MinGW\bin\mingw32-gcc.exe   -v -o CMakeFiles\cmTC_02a7a.dir\CMakeCCompilerABI.c.obj -c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\MinGW\bin\mingw32-gcc.exe
+Target: mingw32
+Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --with-gmp=/mingw --with-mpfr --with-mpc=/mingw --with-isl=/mingw --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-6.3.0-1' --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --enable-libgomp --disable-libvtv --enable-nls
+Thread model: win32
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_02a7a.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1.exe -quiet -v -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=i586 -auxbase-strip CMakeFiles\cmTC_02a7a.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\sharm\AppData\Local\Temp\ccPawBBX.s
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include"
+ignoring duplicate directory "/mingw/lib/gcc/mingw32/6.3.0/../../../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include-fixed"
+ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed
+End of search list.
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 384cad586f05ed581a9c068b2f18b408
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_02a7a.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_02a7a.dir\CMakeCCompilerABI.c.obj C:\Users\sharm\AppData\Local\Temp\ccPawBBX.s
+GNU assembler version 2.28 (mingw32) using BFD version (GNU Binutils) 2.28
+COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
+LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_02a7a.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+Linking C executable cmTC_02a7a.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_02a7a.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_02a7a.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_02a7a.dir/objects.a @CMakeFiles\cmTC_02a7a.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_02a7a.dir\build.make:105: recipe for target 'cmTC_02a7a.exe' failed
+mingw32-make.exe[1]: *** [cmTC_02a7a.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_02a7a/fast' failed
+mingw32-make.exe: *** [cmTC_02a7a/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_bd92d/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_bd92d.dir\build.make CMakeFiles/cmTC_bd92d.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bd92d.dir/testCCompiler.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_bd92d.dir\testCCompiler.c.obj -c C:\TURBOC3\BIN\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_bd92d.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_bd92d.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_bd92d.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_bd92d.dir/objects.a @CMakeFiles\cmTC_bd92d.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_bd92d.dir\build.make:106: recipe for target 'cmTC_bd92d.exe' failed
+mingw32-make.exe[1]: *** [cmTC_bd92d.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_bd92d/fast' failed
+mingw32-make.exe: *** [cmTC_bd92d/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_d847b/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_d847b.dir\build.make CMakeFiles/cmTC_d847b.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d847b.dir/CMakeCCompilerABI.c.obj
+C:\MinGW\bin\mingw32-gcc.exe   -v -o CMakeFiles\cmTC_d847b.dir\CMakeCCompilerABI.c.obj -c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\MinGW\bin\mingw32-gcc.exe
+Target: mingw32
+Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --with-gmp=/mingw --with-mpfr --with-mpc=/mingw --with-isl=/mingw --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-6.3.0-1' --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --enable-libgomp --disable-libvtv --enable-nls
+Thread model: win32
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_d847b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1.exe -quiet -v -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=i586 -auxbase-strip CMakeFiles\cmTC_d847b.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\sharm\AppData\Local\Temp\ccSlZjlL.s
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include"
+ignoring duplicate directory "/mingw/lib/gcc/mingw32/6.3.0/../../../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include-fixed"
+ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed
+End of search list.
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 384cad586f05ed581a9c068b2f18b408
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_d847b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_d847b.dir\CMakeCCompilerABI.c.obj C:\Users\sharm\AppData\Local\Temp\ccSlZjlL.s
+GNU assembler version 2.28 (mingw32) using BFD version (GNU Binutils) 2.28
+COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
+LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_d847b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+Linking C executable cmTC_d847b.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_d847b.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_d847b.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_d847b.dir/objects.a @CMakeFiles\cmTC_d847b.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_d847b.dir\build.make:105: recipe for target 'cmTC_d847b.exe' failed
+mingw32-make.exe[1]: *** [cmTC_d847b.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_d847b/fast' failed
+mingw32-make.exe: *** [cmTC_d847b/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_c2ae5/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_c2ae5.dir\build.make CMakeFiles/cmTC_c2ae5.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c2ae5.dir/testCCompiler.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_c2ae5.dir\testCCompiler.c.obj -c C:\TURBOC3\BIN\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_c2ae5.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c2ae5.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_c2ae5.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_c2ae5.dir/objects.a @CMakeFiles\cmTC_c2ae5.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_c2ae5.dir\build.make:106: recipe for target 'cmTC_c2ae5.exe' failed
+mingw32-make.exe[1]: *** [cmTC_c2ae5.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_c2ae5/fast' failed
+mingw32-make.exe: *** [cmTC_c2ae5/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_76a5b/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_76a5b.dir\build.make CMakeFiles/cmTC_76a5b.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_76a5b.dir/CMakeCCompilerABI.c.obj
+C:\MinGW\bin\mingw32-gcc.exe   -v -o CMakeFiles\cmTC_76a5b.dir\CMakeCCompilerABI.c.obj -c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\MinGW\bin\mingw32-gcc.exe
+Target: mingw32
+Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --with-gmp=/mingw --with-mpfr --with-mpc=/mingw --with-isl=/mingw --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-6.3.0-1' --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --enable-libgomp --disable-libvtv --enable-nls
+Thread model: win32
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_76a5b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1.exe -quiet -v -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=i586 -auxbase-strip CMakeFiles\cmTC_76a5b.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\sharm\AppData\Local\Temp\cc1uHI7v.s
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include"
+ignoring duplicate directory "/mingw/lib/gcc/mingw32/6.3.0/../../../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include-fixed"
+ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed
+End of search list.
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 384cad586f05ed581a9c068b2f18b408
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_76a5b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_76a5b.dir\CMakeCCompilerABI.c.obj C:\Users\sharm\AppData\Local\Temp\cc1uHI7v.s
+GNU assembler version 2.28 (mingw32) using BFD version (GNU Binutils) 2.28
+COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
+LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_76a5b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+Linking C executable cmTC_76a5b.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_76a5b.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_76a5b.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_76a5b.dir/objects.a @CMakeFiles\cmTC_76a5b.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_76a5b.dir\build.make:105: recipe for target 'cmTC_76a5b.exe' failed
+mingw32-make.exe[1]: *** [cmTC_76a5b.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_76a5b/fast' failed
+mingw32-make.exe: *** [cmTC_76a5b/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_dd1b3/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_dd1b3.dir\build.make CMakeFiles/cmTC_dd1b3.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_dd1b3.dir/testCCompiler.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_dd1b3.dir\testCCompiler.c.obj -c C:\TURBOC3\BIN\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_dd1b3.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_dd1b3.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_dd1b3.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_dd1b3.dir/objects.a @CMakeFiles\cmTC_dd1b3.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_dd1b3.dir\build.make:106: recipe for target 'cmTC_dd1b3.exe' failed
+mingw32-make.exe[1]: *** [cmTC_dd1b3.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_dd1b3/fast' failed
+mingw32-make.exe: *** [cmTC_dd1b3/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_846a8/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_846a8.dir\build.make CMakeFiles/cmTC_846a8.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_846a8.dir/CMakeCCompilerABI.c.obj
+C:\MinGW\bin\mingw32-gcc.exe   -v -o CMakeFiles\cmTC_846a8.dir\CMakeCCompilerABI.c.obj -c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\MinGW\bin\mingw32-gcc.exe
+Target: mingw32
+Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --with-gmp=/mingw --with-mpfr --with-mpc=/mingw --with-isl=/mingw --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-6.3.0-1' --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --enable-libgomp --disable-libvtv --enable-nls
+Thread model: win32
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_846a8.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1.exe -quiet -v -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=i586 -auxbase-strip CMakeFiles\cmTC_846a8.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\sharm\AppData\Local\Temp\ccYrgOgr.s
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include"
+ignoring duplicate directory "/mingw/lib/gcc/mingw32/6.3.0/../../../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include-fixed"
+ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed
+End of search list.
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 384cad586f05ed581a9c068b2f18b408
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_846a8.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_846a8.dir\CMakeCCompilerABI.c.obj C:\Users\sharm\AppData\Local\Temp\ccYrgOgr.s
+GNU assembler version 2.28 (mingw32) using BFD version (GNU Binutils) 2.28
+COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
+LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_846a8.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+Linking C executable cmTC_846a8.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_846a8.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_846a8.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_846a8.dir/objects.a @CMakeFiles\cmTC_846a8.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_846a8.dir\build.make:105: recipe for target 'cmTC_846a8.exe' failed
+mingw32-make.exe[1]: *** [cmTC_846a8.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_846a8/fast' failed
+mingw32-make.exe: *** [cmTC_846a8/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_1f4df/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_1f4df.dir\build.make CMakeFiles/cmTC_1f4df.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1f4df.dir/testCCompiler.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_1f4df.dir\testCCompiler.c.obj -c C:\TURBOC3\BIN\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_1f4df.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_1f4df.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_1f4df.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_1f4df.dir/objects.a @CMakeFiles\cmTC_1f4df.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_1f4df.dir\build.make:106: recipe for target 'cmTC_1f4df.exe' failed
+mingw32-make.exe[1]: *** [cmTC_1f4df.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_1f4df/fast' failed
+mingw32-make.exe: *** [cmTC_1f4df/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_a48d6/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_a48d6.dir\build.make CMakeFiles/cmTC_a48d6.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a48d6.dir/CMakeCCompilerABI.c.obj
+C:\MinGW\bin\mingw32-gcc.exe   -v -o CMakeFiles\cmTC_a48d6.dir\CMakeCCompilerABI.c.obj -c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\MinGW\bin\mingw32-gcc.exe
+Target: mingw32
+Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --with-gmp=/mingw --with-mpfr --with-mpc=/mingw --with-isl=/mingw --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-6.3.0-1' --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --enable-libgomp --disable-libvtv --enable-nls
+Thread model: win32
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_a48d6.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1.exe -quiet -v -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=i586 -auxbase-strip CMakeFiles\cmTC_a48d6.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\sharm\AppData\Local\Temp\ccIEoTih.s
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include"
+ignoring duplicate directory "/mingw/lib/gcc/mingw32/6.3.0/../../../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include-fixed"
+ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed
+End of search list.
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 384cad586f05ed581a9c068b2f18b408
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_a48d6.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_a48d6.dir\CMakeCCompilerABI.c.obj C:\Users\sharm\AppData\Local\Temp\ccIEoTih.s
+GNU assembler version 2.28 (mingw32) using BFD version (GNU Binutils) 2.28
+COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
+LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_a48d6.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+Linking C executable cmTC_a48d6.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_a48d6.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_a48d6.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_a48d6.dir/objects.a @CMakeFiles\cmTC_a48d6.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_a48d6.dir\build.make:105: recipe for target 'cmTC_a48d6.exe' failed
+mingw32-make.exe[1]: *** [cmTC_a48d6.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_a48d6/fast' failed
+mingw32-make.exe: *** [cmTC_a48d6/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_de45b/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_de45b.dir\build.make CMakeFiles/cmTC_de45b.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_de45b.dir/testCCompiler.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_de45b.dir\testCCompiler.c.obj -c C:\TURBOC3\BIN\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_de45b.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_de45b.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_de45b.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_de45b.dir/objects.a @CMakeFiles\cmTC_de45b.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_de45b.dir\build.make:106: recipe for target 'cmTC_de45b.exe' failed
+mingw32-make.exe[1]: *** [cmTC_de45b.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_de45b/fast' failed
+mingw32-make.exe: *** [cmTC_de45b/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_0a864/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_0a864.dir\build.make CMakeFiles/cmTC_0a864.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0a864.dir/CMakeCCompilerABI.c.obj
+C:\MinGW\bin\mingw32-gcc.exe   -v -o CMakeFiles\cmTC_0a864.dir\CMakeCCompilerABI.c.obj -c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\MinGW\bin\mingw32-gcc.exe
+Target: mingw32
+Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --with-gmp=/mingw --with-mpfr --with-mpc=/mingw --with-isl=/mingw --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-6.3.0-1' --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --enable-libgomp --disable-libvtv --enable-nls
+Thread model: win32
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_0a864.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1.exe -quiet -v -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=i586 -auxbase-strip CMakeFiles\cmTC_0a864.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\sharm\AppData\Local\Temp\ccAUmu01.s
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include"
+ignoring duplicate directory "/mingw/lib/gcc/mingw32/6.3.0/../../../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include-fixed"
+ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed
+End of search list.
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 384cad586f05ed581a9c068b2f18b408
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_0a864.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_0a864.dir\CMakeCCompilerABI.c.obj C:\Users\sharm\AppData\Local\Temp\ccAUmu01.s
+GNU assembler version 2.28 (mingw32) using BFD version (GNU Binutils) 2.28
+COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
+LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_0a864.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+Linking C executable cmTC_0a864.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_0a864.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_0a864.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_0a864.dir/objects.a @CMakeFiles\cmTC_0a864.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_0a864.dir\build.make:105: recipe for target 'cmTC_0a864.exe' failed
+mingw32-make.exe[1]: *** [cmTC_0a864.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_0a864/fast' failed
+mingw32-make.exe: *** [cmTC_0a864/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_3d004/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_3d004.dir\build.make CMakeFiles/cmTC_3d004.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3d004.dir/testCCompiler.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_3d004.dir\testCCompiler.c.obj -c C:\TURBOC3\BIN\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_3d004.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_3d004.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_3d004.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_3d004.dir/objects.a @CMakeFiles\cmTC_3d004.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_3d004.dir\build.make:106: recipe for target 'cmTC_3d004.exe' failed
+mingw32-make.exe[1]: *** [cmTC_3d004.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_3d004/fast' failed
+mingw32-make.exe: *** [cmTC_3d004/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_806a3/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_806a3.dir\build.make CMakeFiles/cmTC_806a3.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_806a3.dir/CMakeCCompilerABI.c.obj
+C:\MinGW\bin\mingw32-gcc.exe   -v -o CMakeFiles\cmTC_806a3.dir\CMakeCCompilerABI.c.obj -c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\MinGW\bin\mingw32-gcc.exe
+Target: mingw32
+Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --with-gmp=/mingw --with-mpfr --with-mpc=/mingw --with-isl=/mingw --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-6.3.0-1' --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --enable-libgomp --disable-libvtv --enable-nls
+Thread model: win32
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_806a3.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1.exe -quiet -v -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=i586 -auxbase-strip CMakeFiles\cmTC_806a3.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\sharm\AppData\Local\Temp\cctoSsPI.s
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include"
+ignoring duplicate directory "/mingw/lib/gcc/mingw32/6.3.0/../../../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include-fixed"
+ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed
+End of search list.
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 384cad586f05ed581a9c068b2f18b408
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_806a3.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_806a3.dir\CMakeCCompilerABI.c.obj C:\Users\sharm\AppData\Local\Temp\cctoSsPI.s
+GNU assembler version 2.28 (mingw32) using BFD version (GNU Binutils) 2.28
+COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
+LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_806a3.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+Linking C executable cmTC_806a3.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_806a3.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_806a3.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_806a3.dir/objects.a @CMakeFiles\cmTC_806a3.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_806a3.dir\build.make:105: recipe for target 'cmTC_806a3.exe' failed
+mingw32-make.exe[1]: *** [cmTC_806a3.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_806a3/fast' failed
+mingw32-make.exe: *** [cmTC_806a3/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_5adfd/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_5adfd.dir\build.make CMakeFiles/cmTC_5adfd.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5adfd.dir/testCCompiler.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_5adfd.dir\testCCompiler.c.obj -c C:\TURBOC3\BIN\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_5adfd.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_5adfd.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_5adfd.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_5adfd.dir/objects.a @CMakeFiles\cmTC_5adfd.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_5adfd.dir\build.make:106: recipe for target 'cmTC_5adfd.exe' failed
+mingw32-make.exe[1]: *** [cmTC_5adfd.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_5adfd/fast' failed
+mingw32-make.exe: *** [cmTC_5adfd/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_da23a/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_da23a.dir\build.make CMakeFiles/cmTC_da23a.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_da23a.dir/CMakeCCompilerABI.c.obj
+C:\MinGW\bin\mingw32-gcc.exe   -v -o CMakeFiles\cmTC_da23a.dir\CMakeCCompilerABI.c.obj -c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\MinGW\bin\mingw32-gcc.exe
+Target: mingw32
+Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --with-gmp=/mingw --with-mpfr --with-mpc=/mingw --with-isl=/mingw --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-6.3.0-1' --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --enable-libgomp --disable-libvtv --enable-nls
+Thread model: win32
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_da23a.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1.exe -quiet -v -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=i586 -auxbase-strip CMakeFiles\cmTC_da23a.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\sharm\AppData\Local\Temp\cc7ArI7u.s
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include"
+ignoring duplicate directory "/mingw/lib/gcc/mingw32/6.3.0/../../../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include-fixed"
+ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed
+End of search list.
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 384cad586f05ed581a9c068b2f18b408
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_da23a.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_da23a.dir\CMakeCCompilerABI.c.obj C:\Users\sharm\AppData\Local\Temp\cc7ArI7u.s
+GNU assembler version 2.28 (mingw32) using BFD version (GNU Binutils) 2.28
+COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
+LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_da23a.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+Linking C executable cmTC_da23a.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_da23a.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_da23a.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_da23a.dir/objects.a @CMakeFiles\cmTC_da23a.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_da23a.dir\build.make:105: recipe for target 'cmTC_da23a.exe' failed
+mingw32-make.exe[1]: *** [cmTC_da23a.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_da23a/fast' failed
+mingw32-make.exe: *** [cmTC_da23a/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_461ca/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_461ca.dir\build.make CMakeFiles/cmTC_461ca.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_461ca.dir/testCCompiler.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_461ca.dir\testCCompiler.c.obj -c C:\TURBOC3\BIN\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_461ca.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_461ca.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_461ca.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_461ca.dir/objects.a @CMakeFiles\cmTC_461ca.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_461ca.dir\build.make:106: recipe for target 'cmTC_461ca.exe' failed
+mingw32-make.exe[1]: *** [cmTC_461ca.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_461ca/fast' failed
+mingw32-make.exe: *** [cmTC_461ca/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_44a0d/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_44a0d.dir\build.make CMakeFiles/cmTC_44a0d.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_44a0d.dir/CMakeCCompilerABI.c.obj
+C:\MinGW\bin\mingw32-gcc.exe   -v -o CMakeFiles\cmTC_44a0d.dir\CMakeCCompilerABI.c.obj -c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\MinGW\bin\mingw32-gcc.exe
+Target: mingw32
+Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --with-gmp=/mingw --with-mpfr --with-mpc=/mingw --with-isl=/mingw --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-6.3.0-1' --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --enable-libgomp --disable-libvtv --enable-nls
+Thread model: win32
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_44a0d.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1.exe -quiet -v -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=i586 -auxbase-strip CMakeFiles\cmTC_44a0d.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\sharm\AppData\Local\Temp\cc0urINY.s
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include"
+ignoring duplicate directory "/mingw/lib/gcc/mingw32/6.3.0/../../../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include-fixed"
+ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed
+End of search list.
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 384cad586f05ed581a9c068b2f18b408
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_44a0d.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_44a0d.dir\CMakeCCompilerABI.c.obj C:\Users\sharm\AppData\Local\Temp\cc0urINY.s
+GNU assembler version 2.28 (mingw32) using BFD version (GNU Binutils) 2.28
+COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
+LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_44a0d.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+Linking C executable cmTC_44a0d.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_44a0d.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_44a0d.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_44a0d.dir/objects.a @CMakeFiles\cmTC_44a0d.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_44a0d.dir\build.make:105: recipe for target 'cmTC_44a0d.exe' failed
+mingw32-make.exe[1]: *** [cmTC_44a0d.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_44a0d/fast' failed
+mingw32-make.exe: *** [cmTC_44a0d/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_48b68/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_48b68.dir\build.make CMakeFiles/cmTC_48b68.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_48b68.dir/testCCompiler.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_48b68.dir\testCCompiler.c.obj -c C:\TURBOC3\BIN\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_48b68.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_48b68.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_48b68.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_48b68.dir/objects.a @CMakeFiles\cmTC_48b68.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_48b68.dir\build.make:106: recipe for target 'cmTC_48b68.exe' failed
+mingw32-make.exe[1]: *** [cmTC_48b68.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_48b68/fast' failed
+mingw32-make.exe: *** [cmTC_48b68/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_d692b/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_d692b.dir\build.make CMakeFiles/cmTC_d692b.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d692b.dir/CMakeCCompilerABI.c.obj
+C:\MinGW\bin\mingw32-gcc.exe   -v -o CMakeFiles\cmTC_d692b.dir\CMakeCCompilerABI.c.obj -c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\MinGW\bin\mingw32-gcc.exe
+Target: mingw32
+Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --with-gmp=/mingw --with-mpfr --with-mpc=/mingw --with-isl=/mingw --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-6.3.0-1' --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --enable-libgomp --disable-libvtv --enable-nls
+Thread model: win32
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_d692b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1.exe -quiet -v -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=i586 -auxbase-strip CMakeFiles\cmTC_d692b.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\sharm\AppData\Local\Temp\ccEwAPIq.s
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include"
+ignoring duplicate directory "/mingw/lib/gcc/mingw32/6.3.0/../../../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include-fixed"
+ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed
+End of search list.
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 384cad586f05ed581a9c068b2f18b408
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_d692b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_d692b.dir\CMakeCCompilerABI.c.obj C:\Users\sharm\AppData\Local\Temp\ccEwAPIq.s
+GNU assembler version 2.28 (mingw32) using BFD version (GNU Binutils) 2.28
+COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
+LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_d692b.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+Linking C executable cmTC_d692b.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_d692b.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_d692b.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_d692b.dir/objects.a @CMakeFiles\cmTC_d692b.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_d692b.dir\build.make:105: recipe for target 'cmTC_d692b.exe' failed
+mingw32-make.exe[1]: *** [cmTC_d692b.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_d692b/fast' failed
+mingw32-make.exe: *** [cmTC_d692b/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_e2577/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_e2577.dir\build.make CMakeFiles/cmTC_e2577.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e2577.dir/testCCompiler.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_e2577.dir\testCCompiler.c.obj -c C:\TURBOC3\BIN\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_e2577.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_e2577.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_e2577.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_e2577.dir/objects.a @CMakeFiles\cmTC_e2577.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_e2577.dir\build.make:106: recipe for target 'cmTC_e2577.exe' failed
+mingw32-make.exe[1]: *** [cmTC_e2577.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_e2577/fast' failed
+mingw32-make.exe: *** [cmTC_e2577/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_95f96/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_95f96.dir\build.make CMakeFiles/cmTC_95f96.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_95f96.dir/CMakeCCompilerABI.c.obj
+C:\MinGW\bin\mingw32-gcc.exe   -v -o CMakeFiles\cmTC_95f96.dir\CMakeCCompilerABI.c.obj -c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\MinGW\bin\mingw32-gcc.exe
+Target: mingw32
+Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --with-gmp=/mingw --with-mpfr --with-mpc=/mingw --with-isl=/mingw --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-6.3.0-1' --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --enable-libgomp --disable-libvtv --enable-nls
+Thread model: win32
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_95f96.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1.exe -quiet -v -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=i586 -auxbase-strip CMakeFiles\cmTC_95f96.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\sharm\AppData\Local\Temp\ccmULkMf.s
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include"
+ignoring duplicate directory "/mingw/lib/gcc/mingw32/6.3.0/../../../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include-fixed"
+ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed
+End of search list.
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 384cad586f05ed581a9c068b2f18b408
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_95f96.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_95f96.dir\CMakeCCompilerABI.c.obj C:\Users\sharm\AppData\Local\Temp\ccmULkMf.s
+GNU assembler version 2.28 (mingw32) using BFD version (GNU Binutils) 2.28
+COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
+LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_95f96.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+Linking C executable cmTC_95f96.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_95f96.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_95f96.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_95f96.dir/objects.a @CMakeFiles\cmTC_95f96.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_95f96.dir\build.make:105: recipe for target 'cmTC_95f96.exe' failed
+mingw32-make.exe[1]: *** [cmTC_95f96.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_95f96/fast' failed
+mingw32-make.exe: *** [cmTC_95f96/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_0e752/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_0e752.dir\build.make CMakeFiles/cmTC_0e752.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0e752.dir/testCCompiler.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_0e752.dir\testCCompiler.c.obj -c C:\TURBOC3\BIN\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_0e752.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_0e752.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_0e752.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_0e752.dir/objects.a @CMakeFiles\cmTC_0e752.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_0e752.dir\build.make:106: recipe for target 'cmTC_0e752.exe' failed
+mingw32-make.exe[1]: *** [cmTC_0e752.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_0e752/fast' failed
+mingw32-make.exe: *** [cmTC_0e752/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_b4755/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_b4755.dir\build.make CMakeFiles/cmTC_b4755.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b4755.dir/CMakeCCompilerABI.c.obj
+C:\MinGW\bin\mingw32-gcc.exe   -v -o CMakeFiles\cmTC_b4755.dir\CMakeCCompilerABI.c.obj -c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\MinGW\bin\mingw32-gcc.exe
+Target: mingw32
+Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --with-gmp=/mingw --with-mpfr --with-mpc=/mingw --with-isl=/mingw --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-6.3.0-1' --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --enable-libgomp --disable-libvtv --enable-nls
+Thread model: win32
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_b4755.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1.exe -quiet -v -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=i586 -auxbase-strip CMakeFiles\cmTC_b4755.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\sharm\AppData\Local\Temp\cc84a9ef.s
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include"
+ignoring duplicate directory "/mingw/lib/gcc/mingw32/6.3.0/../../../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include-fixed"
+ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed
+End of search list.
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 384cad586f05ed581a9c068b2f18b408
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_b4755.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_b4755.dir\CMakeCCompilerABI.c.obj C:\Users\sharm\AppData\Local\Temp\cc84a9ef.s
+GNU assembler version 2.28 (mingw32) using BFD version (GNU Binutils) 2.28
+COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
+LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_b4755.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+Linking C executable cmTC_b4755.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_b4755.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_b4755.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_b4755.dir/objects.a @CMakeFiles\cmTC_b4755.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_b4755.dir\build.make:105: recipe for target 'cmTC_b4755.exe' failed
+mingw32-make.exe[1]: *** [cmTC_b4755.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_b4755/fast' failed
+mingw32-make.exe: *** [cmTC_b4755/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_bcaeb/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_bcaeb.dir\build.make CMakeFiles/cmTC_bcaeb.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bcaeb.dir/testCCompiler.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_bcaeb.dir\testCCompiler.c.obj -c C:\TURBOC3\BIN\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_bcaeb.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_bcaeb.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_bcaeb.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_bcaeb.dir/objects.a @CMakeFiles\cmTC_bcaeb.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_bcaeb.dir\build.make:106: recipe for target 'cmTC_bcaeb.exe' failed
+mingw32-make.exe[1]: *** [cmTC_bcaeb.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_bcaeb/fast' failed
+mingw32-make.exe: *** [cmTC_bcaeb/fast] Error 2
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_7c766/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_7c766.dir\build.make CMakeFiles/cmTC_7c766.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7c766.dir/CMakeCCompilerABI.c.obj
+C:\MinGW\bin\mingw32-gcc.exe   -v -o CMakeFiles\cmTC_7c766.dir\CMakeCCompilerABI.c.obj -c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+COLLECT_GCC=C:\MinGW\bin\mingw32-gcc.exe
+Target: mingw32
+Configured with: ../src/gcc-6.3.0/configure --build=x86_64-pc-linux-gnu --host=mingw32 --target=mingw32 --with-gmp=/mingw --with-mpfr --with-mpc=/mingw --with-isl=/mingw --prefix=/mingw --disable-win32-registry --with-arch=i586 --with-tune=generic --enable-languages=c,c++,objc,obj-c++,fortran,ada --with-pkgversion='MinGW.org GCC-6.3.0-1' --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --with-libiconv-prefix=/mingw --with-libintl-prefix=/mingw --enable-libstdcxx-debug --enable-libgomp --disable-libvtv --enable-nls
+Thread model: win32
+gcc version 6.3.0 (MinGW.org GCC-6.3.0-1) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_7c766.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1.exe -quiet -v -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=i586 -auxbase-strip CMakeFiles\cmTC_7c766.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\sharm\AppData\Local\Temp\ccJUs2sd.s
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include"
+ignoring duplicate directory "/mingw/lib/gcc/mingw32/6.3.0/../../../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../include"
+ignoring duplicate directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/include-fixed"
+ignoring nonexistent directory "c:/mingw/lib/gcc/../../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"
+ignoring duplicate directory "/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include
+ c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed
+End of search list.
+GNU C11 (MinGW.org GCC-6.3.0-1) version 6.3.0 (mingw32)
+	compiled by GNU C version 6.3.0, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 384cad586f05ed581a9c068b2f18b408
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_7c766.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+ c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -v -o CMakeFiles\cmTC_7c766.dir\CMakeCCompilerABI.c.obj C:\Users\sharm\AppData\Local\Temp\ccJUs2sd.s
+GNU assembler version 2.28 (mingw32) using BFD version (GNU Binutils) 2.28
+COMPILER_PATH=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/;c:/mingw/bin/../libexec/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/
+LIBRARY_PATH=c:/mingw/bin/../lib/gcc/mingw32/6.3.0/;c:/mingw/bin/../lib/gcc/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib/;c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_7c766.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=i586'
+Linking C executable cmTC_7c766.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_7c766.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_7c766.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_7c766.dir/objects.a @CMakeFiles\cmTC_7c766.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_7c766.dir\build.make:105: recipe for target 'cmTC_7c766.exe' failed
+mingw32-make.exe[1]: *** [cmTC_7c766.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_7c766/fast' failed
+mingw32-make.exe: *** [cmTC_7c766/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe cmTC_bc28c/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_bc28c.dir\build.make CMakeFiles/cmTC_bc28c.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bc28c.dir/testCCompiler.c.obj
+C:\MinGW\bin\mingw32-gcc.exe    -o CMakeFiles\cmTC_bc28c.dir\testCCompiler.c.obj -c C:\TURBOC3\BIN\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_bc28c.exe
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_bc28c.dir\link.txt --verbose=1
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmTC_bc28c.dir/objects.a
+CMAKE_AR-NOTFOUND cr CMakeFiles\cmTC_bc28c.dir/objects.a @CMakeFiles\cmTC_bc28c.dir\objects1.rsp
+Error running link command: The system cannot find the file specified
+CMakeFiles\cmTC_bc28c.dir\build.make:106: recipe for target 'cmTC_bc28c.exe' failed
+mingw32-make.exe[1]: *** [cmTC_bc28c.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/TURBOC3/BIN/build/CMakeFiles/CMakeTmp'
+Makefile:139: recipe for target 'cmTC_bc28c/fast' failed
+mingw32-make.exe: *** [cmTC_bc28c/fast] Error 2
+
+
+

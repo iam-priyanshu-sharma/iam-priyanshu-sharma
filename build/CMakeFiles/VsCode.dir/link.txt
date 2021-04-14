@@ -1,0 +1,1 @@
+C:\MinGW\bin\ar.exe qc libVsCode.a CMakeFiles/VsCode.dir/VsCode.cpp.obj

@@ -1,0 +1,19 @@
+/*Program to find the reverse of a number using do...while loop*/
+#include<stdio.h>
+#include<conio.h>
+void main()
+    {
+     int n,a,r,sum=0;
+     printf("Enter a number:");
+     scanf("%d",&n);
+     a=n;
+     do
+       {
+	r=n%10;
+	sum=sum*10+r;
+	n /=10;
+       }
+     while(n>0);
+     printf("The reverse number of %d=%d",a,sum);
+     getch();
+    }

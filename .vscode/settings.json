@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "SUM01.C": "cpp",
+        "SUM02.C": "cpp",
+        "TABLE01.C": "cpp",
+        "TABLE02.C": "cpp",
+        "TABLE03.C": "cpp",
+        "PALIND01.C": "cpp",
+        "PALIND02.C": "cpp",
+        "PALIND03.C": "cpp",
+        "REVERSE1.C": "cpp",
+        "REVERSE2.C": "cpp",
+        "REVERSE3.C": "cpp",
+        "REVERSE.C": "cpp",
+        "PRIMENUM.C": "cpp",
+        "PRIMEFAT.C": "cpp",
+        "POWEROF2.C": "cpp",
+        "POWOF2BO.C": "cpp",
+        "PR1TO500.C": "cpp",
+        "PATCHAR6.C": "cpp",
+        "PATTERN(Char)08.C": "cpp",
+        "COMB0F31.C": "cpp",
+        "COMBOF32.C": "cpp"
+    }
+}
