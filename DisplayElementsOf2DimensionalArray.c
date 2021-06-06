@@ -9,8 +9,8 @@ void main()
         printf("Elements of an array:\n");
         for(i=0;i<3;i++)
            {
-                for (j=0;j<3;j++)
-                printf ("%d\t",a[i][j]);
+                for(j=0;j<3;j++)
+                    printf("%d\t",a[i][j]);
            }
         printf("\n"); 
         getch();
