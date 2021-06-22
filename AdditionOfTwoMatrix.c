@@ -4,13 +4,14 @@
 void main()
     {
        int a[10][10],b[10][10],c[10][10],r1,r2,c1,c2,i,j;
+       system("cls");
        printf("Enter order of 1st matrix:");
        scanf("%d%d",&r1,&c1);
-       printf("Enter elements of 1st matrix:");
+       printf("\nEnter elements of 1st matrix:");
        for(i=0;i<r1;i++)
           for(j=0;j<c1;j++)
              scanf("%d",&a[i][j]);
-       printf("1st matrix is:\n");
+       printf("\n1st matrix is:\n");
        for(i=0;i<r1;i++)
           {
               for(j=0;j<c1;j++)
