@@ -7,3 +7,7 @@
 
 ### GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iam-priyanshu-sharma&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma)](https://github.com/iam-priyanshu-sharma/github-readme-stats)
