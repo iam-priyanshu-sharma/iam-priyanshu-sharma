@@ -1,4 +1,4 @@
-### Hey everyone, I'm Priyanshu Sharma®™, AKA the HeArT々HaCKeR®™ 👋
+### Hey everyone, I'm Priyanshu Sharma®™, Aka the HeArT々HaCKeR®™ 👋
 
 ![wallpaperflare com_wallpaper (4)p](https://user-images.githubusercontent.com/77437944/151976759-5f3e9225-6298-4b7d-946e-86bfe93d11cc.jpg)
 
@@ -16,13 +16,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt" height="300">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&show_icons=true&theme=tokyonight" width="400">
 
-
- My 2021 GitHub Skyline          
-
-         ✦                 ✦    ▁          ☽     ✦   
- ✦                 █          ▁▄██      ✧     ✧      
- ✧                ✦█  ▁ ▇     ████    ✦ ✧            
-  ✧   ✧   ✦  ▃     █✦ █✧█▂   ▇████ ▇▅   ▃ ✧✧     ▅   
- ▃▁ ✧▂▅▂▅▂▃▅▁█ ✦▇  █▇▅█▃██▄███████▅██▅▂▄██▄▄▁ ▁▁✦█▂  
-▁██▅██████████▁▇█▆▇██████████████████████████▇██████▅
 
