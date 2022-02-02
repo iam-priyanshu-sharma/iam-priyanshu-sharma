@@ -80,6 +80,10 @@
 
 <br/>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=github-readme-stats)](https://github.com/iam-priyanshu-sharma/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/iam-priyanshu-sharma/github-readme-stats)
+
 <a href="https://github.com/iam-priyanshu-sharma/github-readme-activity-graph"><img alt="Priyanshu Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam-priyanshu-sharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
