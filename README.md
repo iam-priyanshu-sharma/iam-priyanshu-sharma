@@ -32,5 +32,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt" height="300">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&show_icons=true&theme=tokyonight" width="400">
 
-![giphy](https://user-images.githubusercontent.com/77437944/152090295-7c7fee7e-4b65-44d2-ae08-870c6b85a3bc.gif)
-
+<p align="center" width="100%">
+    <img width="33%" src="https://user-images.githubusercontent.com/77437944/152090295-7c7fee7e-4b65-44d2-ae08-870c6b85a3bc.gif">
+</p>
