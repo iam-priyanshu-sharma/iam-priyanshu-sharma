@@ -1,4 +1,3 @@
-<!--START_SECTION:activity-->
 
 <p align="center" width="100%">
     <img width="50%" src="https://media2.giphy.com/media/Sv9TC4p8k8DDx28KRO/200.gif?cid=5a38a5a20s0euv4b3jcjjt9n0t2rhye7q2746a911pbqjiag&amp;rid=200.gif&amp;ct=ts">
@@ -75,14 +74,9 @@
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&show_icons=true&theme=tokyonight">
 </p>
 
-
 - <b>Note:</b>**Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.**
 
 <br/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=github-readme-stats)](https://github.com/iam-priyanshu-sharma/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/iam-priyanshu-sharma/github-readme-stats)
 
 <a href="https://github.com/iam-priyanshu-sharma/github-readme-activity-graph"><img alt="Priyanshu Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam-priyanshu-sharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
