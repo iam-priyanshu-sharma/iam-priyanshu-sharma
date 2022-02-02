@@ -1,3 +1,6 @@
+- name: GitHub - Activity - Readme
+  uses: iam-priyanshu-sharma/github-activity-readme@v0.3.6
+
 name: Update README
 
 on:
