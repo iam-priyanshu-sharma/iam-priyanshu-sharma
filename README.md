@@ -1,3 +1,5 @@
+<!--START_SECTION:activity-->
+
 <p align="center" width="100%">
     <img width="50%" src="https://media2.giphy.com/media/Sv9TC4p8k8DDx28KRO/200.gif?cid=5a38a5a20s0euv4b3jcjjt9n0t2rhye7q2746a911pbqjiag&amp;rid=200.gif&amp;ct=ts">
 </p>
@@ -24,12 +26,13 @@
 
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
+    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/>
     <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
+   <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/>
 </p>
 
 ## Connect with me:
