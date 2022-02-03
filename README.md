@@ -33,7 +33,7 @@
    <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/>
 </p>
 
-## Connect with me:
+## 🔁 Connect with me:
 <p align="left"> 
 
 <a href = "https://www.instagram.com/iam.priyanshu.sharma/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
@@ -49,7 +49,7 @@
 </a>
 <a href="https://github.com/iam-priyanshu-sharma?tab=followers"><img src="https://img.shields.io/github/followers/iam-priyanshu-sharma?label=Followers&style=social" alt="GitHub Badge"></a>    
 
-### Quote that motivates me:-
+## 👨‍🎓 Quote that motivates me:-
 - 😃Ã pèrßõñ whø ñëvër mäðë ä mïßtãkê ñêvër trïèð ãñýthíñg ñëw.😌
 - ❤"Jab koi pyaar karta hai na, toh love stories banti hain. Lekin jab koi pyaar nibhaata hai toh fairytales banti hain. Aur agar aapko ek fairytale mein jeena hai toh thodi himmat karni padegi."❤
 
