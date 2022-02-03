@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/iam-priyanshu-sharma)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/iam-priyanshu-sharma?tab=repositories)**
 
 - ⚡ Fun fact **I play games very often and I overthink on any topic and make my own dreams while sleeping.**
 
