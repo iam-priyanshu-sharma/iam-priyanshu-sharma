@@ -23,21 +23,21 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
-   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/>
-   <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/>
-   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-   <a href="https://visualstudio.microsoft.com/vs/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/>
-   <a href="https://ubuntu.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
-   <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/>
+   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+   <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+   <a href="https://visualstudio.microsoft.com/vs/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/></a>
+   <a href="https://ubuntu.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
+   <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
 </p>
 
 ## 🔁 Connect with me:
 <p align="left"> 
 
 <a href = "https://www.instagram.com/iam.priyanshu.sharma/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://https://discordapp.com/users/570961716800782358/"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
+<a href = "https://https://discordapp.com/users/570961716800782358/"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
    <img src="https://img.icons8.com/fluency/48/000000/xbox.png"/>
    <img src="https://img.icons8.com/fluency/48/000000/epic-games.png"/>
   
@@ -47,7 +47,8 @@
 <a href="https://github.com/iam-priyanshu-sharma/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iam-priyanshu-sharma">
 </a>
-<a href="https://github.com/iam-priyanshu-sharma?tab=followers"><img src="https://img.shields.io/github/followers/iam-priyanshu-sharma?label=Followers&style=social" alt="GitHub Badge"></a>    
+<a href="https://github.com/iam-priyanshu-sharma?tab=followers"><img src="https://img.shields.io/github/followers/iam-priyanshu-sharma?label=Followers&style=social" alt="GitHub Badge">
+</a>    
 
 ## 👨‍🎓 Quote that motivates me:-
 - 😃Ã pèrßõñ whø ñëvër mäðë ä mïßtãkê ñêvër trïèð ãñýthíñg ñëw.😌
