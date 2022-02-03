@@ -38,6 +38,8 @@
 
 <a href = "https://www.instagram.com/iam.priyanshu.sharma/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://https://discordapp.com/users/570961716800782358/"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
+   <img src="https://img.icons8.com/fluency/48/000000/xbox.png"/>
+   <img src="https://img.icons8.com/fluency/48/000000/epic-games.png"/>
   
 </p>
 
