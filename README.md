@@ -26,11 +26,14 @@
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
    <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
    <a href="https://visualstudio.microsoft.com/vs/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/></a>
    <a href="https://ubuntu.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
    <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
+   <a href="https://atom.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/atom-editor.png"/></a>
+   <a href="https://www.eclipse.org/eclipseide/" target="_blank"><img src="https://img.icons8.com/office/48/000000/java-eclipse.png"/></a>
 </p>
 
 ## 🔁 Connect with me:
