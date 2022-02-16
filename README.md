@@ -16,7 +16,7 @@
 
 - <img src="https://media3.giphy.com/media/NWkT8IM7WoQXSJR1fB/giphy.gif?cid=5a38a5a2kv09gb7ch7nllrqnvbtybwdqzmncdc9smy5y70t1&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>All of my projects are available at **[My Portfolio](https://github.com/iam-priyanshu-sharma?tab=repositories)**
 
-- <div><img src="https://media2.giphy.com/media/9NGMn9GkHybZ41HtoX/giphy.gif?cid=5a38a5a2p554v5z47iajuom1g03ben0yj7kqlrjpue2eaqs3&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>Fun fact **I play games very often and I overthink on any topic and make my own dreams while sleeping.**
+- <img src="https://media2.giphy.com/media/9NGMn9GkHybZ41HtoX/giphy.gif?cid=5a38a5a2p554v5z47iajuom1g03ben0yj7kqlrjpue2eaqs3&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>Fun fact **I play games very often and I overthink on any topic and make my own dreams while sleeping.**
 
 - <img src="https://media3.giphy.com/media/USUIWSteF8DJoc5Snd/200w.gif?cid=5a38a5a2ac9a7c1e1468c901c343dbeadc838130f981ee35&amp;rid=200w.gif&amp;ct=g" style="border:0;height:20px;width:20px"/> I’m looking on help for **Web Development** and **Data Structure**...
 
