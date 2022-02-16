@@ -6,25 +6,27 @@
 
 ![3343928](https://user-images.githubusercontent.com/77437944/151981085-a46af2eb-039f-47ba-acbe-d6a93d652dbc.jpg)
 
-## 🙋‍♂️ About Me
+## <img src="https://media3.giphy.com/media/Q6xFPLfzfsgKoKDV60/200w.gif?cid=5a38a5a23d733fc3961e928c8f79405138ba6858798f7bf5&amp;rid=200w.gif&amp;ct=g" style="border:0;height:40px;width:40px"/> About Me
 
-- 🔭 I’m currently working on **[The Web Developer Bootcamp 2022](https://www.udemy.com/share/101W9C3@e2v9CqIr6bJFbusx3TyNbAEivM3-y67uqoYJIGyrbwV75ModPb5I8rVoV-dhbx9J4Q==/)**
+- <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently working on [The Web Developer Bootcamp 2022](https://www.udemy.com/share/101W9C3@e2v9CqIr6bJFbusx3TyNbAEivM3-y67uqoYJIGyrbwV75ModPb5I8rVoV-dhbx9J4Q==/)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- <img src="https://media3.giphy.com/media/FuVHdn9ezclUiaVqIT/giphy.gif?cid=5a38a5a2oszknhlpwecffdir01y9xs8ym6mx2rb18one0ryc&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- <img src="https://media3.giphy.com/media/U57K09qEYWKK20jmaK/giphy.gif?cid=5a38a5a2572rtyji218qpzndeggciobuptj16zz0z217oq31&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/iam-priyanshu-sharma?tab=repositories)**
+- <img src="https://media3.giphy.com/media/NWkT8IM7WoQXSJR1fB/giphy.gif?cid=5a38a5a2kv09gb7ch7nllrqnvbtybwdqzmncdc9smy5y70t1&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>All of my projects are available at **[My Portfolio](https://github.com/iam-priyanshu-sharma?tab=repositories)**
 
-- ⚡ Fun fact **I play games very often and I overthink on any topic and make my own dreams while sleeping.**
+- <div><img src="https://media2.giphy.com/media/9NGMn9GkHybZ41HtoX/giphy.gif?cid=5a38a5a2p554v5z47iajuom1g03ben0yj7kqlrjpue2eaqs3&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>Fun fact **I play games very often and I overthink on any topic and make my own dreams while sleeping.**
 
-- 🤔 I’m looking on help for Web Development and Data Structure...
+- <img src="https://media3.giphy.com/media/USUIWSteF8DJoc5Snd/200w.gif?cid=5a38a5a2ac9a7c1e1468c901c343dbeadc838130f981ee35&amp;rid=200w.gif&amp;ct=g" style="border:0;height:20px;width:20px"/> I’m looking on help for **Web Development** and **Data Structure**...
 
-## 🚀 Languages and Tools:
+## <img src="https://media0.giphy.com/media/vrBdyOzesMKM5Ntj0R/giphy.gif?cid=5a38a5a2pzj9k3nrm3rm52km7k6dt19kjoyahykzf71a4g2r&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:40px"/>Languages and Tools:
 
 <p align="left"> 
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
+   <a href="https://www.oracle.com/in/java/technologies/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
+   <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+   <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
    <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
@@ -36,7 +38,7 @@
    <a href="https://www.eclipse.org/eclipseide/" target="_blank"><img src="https://img.icons8.com/office/48/000000/java-eclipse.png"/></a>
 </p>
 
-## 🔁 Connect with me:
+## <div><img src="https://media4.giphy.com/media/Tergixq5niQVcyJS2D/giphy.gif?cid=5a38a5a2egvz69aofqkegkrf0fyel7czjp7nkl27nqak38a3&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:30px;width:40px"/>Connect with me:
 <p align="left"> 
 
 <a href = "https://www.instagram.com/iam.priyanshu.sharma/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
@@ -46,16 +48,16 @@
   
 </p>
 
-## ❤ Views and Followers
+## <img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:50px;width:50px"/> Views and Followers
 <a href="https://github.com/iam-priyanshu-sharma/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iam-priyanshu-sharma">
 </a>
 <a href="https://github.com/iam-priyanshu-sharma?tab=followers"><img src="https://img.shields.io/github/followers/iam-priyanshu-sharma?label=Followers&style=social" alt="GitHub Badge">
 </a>    
 
-## 👨‍🎓 Quote that motivates me:-
-- 😃Ã pèrßõñ whø ñëvër mäðë ä mïßtãkê ñêvër trïèð ãñýthíñg ñëw.😌
-- ❤"Jab koi pyaar karta hai na, toh love stories banti hain. Lekin jab koi pyaar nibhaata hai toh fairytales banti hain. Aur agar aapko ek fairytale mein jeena hai toh thodi himmat karni padegi."❤
+## <img src="https://media1.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif?cid=5a38a5a2k3kaqtjtxf6mlamhsjjaes76fj063m1i4617wtoo&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:50px"/>Quote that motivates me:-
+-  <img src="https://media0.giphy.com/media/1ryvI707BC2n7pHhrL/200w.gif?cid=5a38a5a2f10160f3f50de7f9851ec74d407296f26651900d&amp;rid=200w.gif&amp;ct=s" style="border:0;height:30px;width:30px"/>**Ã pèrßõñ whø ñëvër mäðë ä mïßtãkê ñêvër trïèð ãñýthíñg ñëw.**<img src="https://media4.giphy.com/media/kgm1x63AjTnn9yyhXh/200w.gif?cid=5a38a5a220f09fe04fffbe8a9c7a000e5427eeb965bb42da&amp;rid=200w.gif&amp;ct=g" style="border:0;height:30px;width:30px"/>
+- <img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:30px;width:30px"/> **"Jab koi pyaar karta hai na, toh love stories banti hain. Lekin jab koi pyaar nibhaata hai toh fairytales banti hain. Aur agar aapko ek fairytale mein jeena hai toh thodi himmat karni padegi."**<img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:30px;width:30px"/>
 
 <p align="center" width="100%">
     <img width="33%" src="https://media1.giphy.com/media/26n6V5D3LWkDxj5GE/200.gif?cid=5a38a5a288xr872o6lt45psj8cqpf63nh4rs1en6vodd4mh4&amp;rid=200.gif&amp;ct=g">
@@ -64,12 +66,11 @@
 ![wallpaperflare com_wallpaper (4)p](https://user-images.githubusercontent.com/77437944/151976759-5f3e9225-6298-4b7d-946e-86bfe93d11cc.jpg)
 
 
-## 📊 My Github Stats 
+## <img src="https://media1.giphy.com/media/WKVayVkGMJkFPQxm1W/giphy.gif?cid=5a38a5a2rq5wvifalaz7wy87fb4j1uns00uodu2lbywz2u3f&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:50px"/>My Github Stats 
 
 <p align="center" width="100%">
-    <img width="22%" src="https://user-images.githubusercontent.com/77437944/152095093-273b7a34-a767-486d-bf9b-1dd2cc600bf7.gif">
+    <img width="22%" src="https://media4.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=5a38a5a247fekddrx4b1zqdchg9m5b5kc672ijm0ecek5abz&amp;rid=giphy.gif&amp;ct=s">
 </p>
-
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iam-priyanshu-sharma&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727" height="400"/></a>
 
