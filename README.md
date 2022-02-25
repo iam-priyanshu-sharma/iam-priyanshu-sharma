@@ -4,6 +4,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu Sharma®™, Aka the HeArT々HaCKeR®™</h1>
 <h3 align="center">I'm a passionate Student from India.</h3>
 
+ ## <img src="https://media0.giphy.com/media/hUBK87nOa6j16/giphy.gif?cid=5a38a5a2zhxptqdnkmny1pq3aqctpctdw2o4s7yr8y8dtzon&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:40px"/> GitHub Profile Trophy
+<p align="center" width="100%">
+    <img width="70%" src="https://github-profile-trophy.vercel.app/?username=iam-priyanshu-sharma&theme=radical">
+</p>
+
 ![3343928](https://user-images.githubusercontent.com/77437944/151981085-a46af2eb-039f-47ba-acbe-d6a93d652dbc.jpg)
 
 ## <img src="https://media3.giphy.com/media/Q6xFPLfzfsgKoKDV60/200w.gif?cid=5a38a5a23d733fc3961e928c8f79405138ba6858798f7bf5&amp;rid=200w.gif&amp;ct=g" style="border:0;height:40px;width:40px"/> About Me
