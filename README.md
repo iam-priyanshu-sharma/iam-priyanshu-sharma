@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="50%" src="https://media2.giphy.com/media/Sv9TC4p8k8DDx28KRO/200.gif?cid=5a38a5a20s0euv4b3jcjjt9n0t2rhye7q2746a911pbqjiag&amp;rid=200.gif&amp;ct=ts">
+    <img width="80%" src="https://media2.giphy.com/media/Sv9TC4p8k8DDx28KRO/200.gif?cid=5a38a5a20s0euv4b3jcjjt9n0t2rhye7q2746a911pbqjiag&amp;rid=200.gif&amp;ct=ts">
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu Sharma®™, Aka the HeArT々HaCKeR®™</h1>
 <h3 align="center">I'm a passionate Student from India.</h3>
@@ -38,11 +38,14 @@
    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
    <a href="https://visualstudio.microsoft.com/vs/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/></a>
    <a href="https://ubuntu.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
-   <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
+   <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/github.png"/></a>
    <a href="https://atom.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/atom-editor.png"/></a>
    <a href="https://www.eclipse.org/eclipseide/" target="_blank"><img src="https://img.icons8.com/office/48/000000/java-eclipse.png"/></a>
    <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/jetbrains.png"/>
    <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/>  
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="45"/> 
+    </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="45"/>  
+     </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>  
 </p>
 
 ## <div><img src="https://media4.giphy.com/media/Tergixq5niQVcyJS2D/giphy.gif?cid=5a38a5a2egvz69aofqkegkrf0fyel7czjp7nkl27nqak38a3&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:30px;width:40px"/>Connect with me:
@@ -76,19 +79,24 @@
 ## <img src="https://media1.giphy.com/media/WKVayVkGMJkFPQxm1W/giphy.gif?cid=5a38a5a2rq5wvifalaz7wy87fb4j1uns00uodu2lbywz2u3f&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:50px"/>My Github Stats 
 
 <p align="center" width="100%">
-    <img width="22%" src="https://media4.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=5a38a5a247fekddrx4b1zqdchg9m5b5kc672ijm0ecek5abz&amp;rid=giphy.gif&amp;ct=s">
+    <img width="18%" src="https://media4.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=5a38a5a247fekddrx4b1zqdchg9m5b5kc672ijm0ecek5abz&amp;rid=giphy.gif&amp;ct=s">
 </p>
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iam-priyanshu-sharma&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727" height="400"/></a>
+<a href="URL_REDIRECT" target="blank"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=iam-priyanshu-sharma&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt" height="400">
-
+ <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt"/></a>            
 <p align="center" width="100%">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&show_icons=true&theme=tokyonight">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&show_icons=true&theme=tokyonight">
 </p>
 
-- <b>Note:</b>**Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.**
+ <img src="https://media2.giphy.com/media/tOgfteqFgyiG3TsqBq/giphy.gif?cid=5a38a5a2gdd5o2l0xqdpxf9pp7eijvaodtuj1a29mc2dhgue&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:50px;width:50px"/><b>Note:</b>***Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.***<img src="https://media4.giphy.com/media/Qss4ZZzDO896pPZmYa/giphy.gif?cid=5a38a5a224qcymr9c0o6knubd4pox9n5nmnetxrlxtpwlniq&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:50px;width:50px"/>
 
+ ## <img src="https://media4.giphy.com/media/FGQ1LmY31WBvPq55q1/200w.gif?cid=5a38a5a2e87593e248da80ffb1b05ea77247d9c65b74ebad&amp;rid=200w.gif&amp;ct=g" style="border:0;height:60px;width:60px"/>Top Repositories
+ <a href="https://github.com/iam-priyanshu-sharma/C-Program-s"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=C-Program-s&theme=gruvbox"/>
+</a>
+ <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Data-Structure-Program-s&theme=onedark" />
+</a>    
+       
 <br/>
 
 <a href="https://github.com/iam-priyanshu-sharma/github-readme-activity-graph"><img alt="Priyanshu Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam-priyanshu-sharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
@@ -96,5 +104,8 @@
 <br/>
 
 <p align="center" width="100%">
-    <img width="33%" src="https://user-images.githubusercontent.com/77437944/152090295-7c7fee7e-4b65-44d2-ae08-870c6b85a3bc.gif">
+    <img width="50%" src="https://user-images.githubusercontent.com/77437944/152090295-7c7fee7e-4b65-44d2-ae08-870c6b85a3bc.gif">
 </p>
+
+       
+       
