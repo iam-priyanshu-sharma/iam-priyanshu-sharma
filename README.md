@@ -6,7 +6,7 @@
 
  ## <img src="https://media0.giphy.com/media/hUBK87nOa6j16/giphy.gif?cid=5a38a5a2zhxptqdnkmny1pq3aqctpctdw2o4s7yr8y8dtzon&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:40px"/> GitHub Profile Trophy
 <p align="center" width="100%">
-    <img width="70%" src="https://github-profile-trophy.vercel.app/?username=iam-priyanshu-sharma&theme=radical">
+    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=iam-priyanshu-sharma&theme=radical">
 </p>
 
 ![3343928](https://user-images.githubusercontent.com/77437944/151981085-a46af2eb-039f-47ba-acbe-d6a93d652dbc.jpg)
@@ -79,22 +79,23 @@
 ## <img src="https://media1.giphy.com/media/WKVayVkGMJkFPQxm1W/giphy.gif?cid=5a38a5a2rq5wvifalaz7wy87fb4j1uns00uodu2lbywz2u3f&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:50px"/>My Github Stats 
 
 <p align="center" width="100%">
-    <img width="18%" src="https://media4.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=5a38a5a247fekddrx4b1zqdchg9m5b5kc672ijm0ecek5abz&amp;rid=giphy.gif&amp;ct=s">
+    <img width="22%" src="https://media4.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=5a38a5a247fekddrx4b1zqdchg9m5b5kc672ijm0ecek5abz&amp;rid=giphy.gif&amp;ct=s">
 </p>
 
-<a href="URL_REDIRECT" target="blank"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=iam-priyanshu-sharma&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727"/></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iam-priyanshu-sharma&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727" height="400"/></a>
 
- <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt"/></a>            
+ <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt" height="400"/></a>
+       
 <p align="center" width="100%">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&show_icons=true&theme=tokyonight">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&show_icons=true&theme=tokyonight">
 </p>
 
- <img src="https://media2.giphy.com/media/tOgfteqFgyiG3TsqBq/giphy.gif?cid=5a38a5a2gdd5o2l0xqdpxf9pp7eijvaodtuj1a29mc2dhgue&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:50px;width:50px"/><b>Note:</b>***Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.***<img src="https://media4.giphy.com/media/Qss4ZZzDO896pPZmYa/giphy.gif?cid=5a38a5a224qcymr9c0o6knubd4pox9n5nmnetxrlxtpwlniq&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:50px;width:50px"/>
+ <img src="https://media2.giphy.com/media/tOgfteqFgyiG3TsqBq/giphy.gif?cid=5a38a5a2gdd5o2l0xqdpxf9pp7eijvaodtuj1a29mc2dhgue&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:50px;width:50px"/><b>Note:</b>***Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.***
 
  ## <img src="https://media4.giphy.com/media/FGQ1LmY31WBvPq55q1/200w.gif?cid=5a38a5a2e87593e248da80ffb1b05ea77247d9c65b74ebad&amp;rid=200w.gif&amp;ct=g" style="border:0;height:60px;width:60px"/>Top Repositories
- <a href="https://github.com/iam-priyanshu-sharma/C-Program-s"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=C-Program-s&theme=gruvbox"/>
+ <a href="https://github.com/iam-priyanshu-sharma/C-Program-s"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=C-Program-s&theme=gruvbox" height="170"/>
 </a>
- <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Data-Structure-Program-s&theme=onedark" />
+ <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Data-Structure-Program-s&theme=onedark" height="170"/>
 </a>    
        
 <br/>
