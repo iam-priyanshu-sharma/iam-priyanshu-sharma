@@ -1,3 +1,5 @@
+    
+
 <p align="center" width="100%">
     <img width="80%" src="https://media2.giphy.com/media/Sv9TC4p8k8DDx28KRO/200.gif?cid=5a38a5a20s0euv4b3jcjjt9n0t2rhye7q2746a911pbqjiag&amp;rid=200.gif&amp;ct=ts">
 </p>
@@ -11,7 +13,7 @@
 
 ![3343928](https://user-images.githubusercontent.com/77437944/151981085-a46af2eb-039f-47ba-acbe-d6a93d652dbc.jpg)
 
-## <img src="https://media3.giphy.com/media/Q6xFPLfzfsgKoKDV60/200w.gif?cid=5a38a5a23d733fc3961e928c8f79405138ba6858798f7bf5&amp;rid=200w.gif&amp;ct=g" style="border:0;height:40px;width:40px"/> About Me
+## <img src="https://media3.giphy.com/media/Q6xFPLfzfsgKoKDV60/200w.gif?cid=5a38a5a23d733fc3961e928c8f79405138ba6858798f7bf5&amp;rid=200w.gif&amp;ct=g" style="border:0;height:40px;width:40px"/>About Me
 
 - <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently working on [The Web Developer Bootcamp 2022](https://www.udemy.com/share/101W9C3@e2v9CqIr6bJFbusx3TyNbAEivM3-y67uqoYJIGyrbwV75ModPb5I8rVoV-dhbx9J4Q==/)
 
@@ -99,7 +101,7 @@
 
 <br/>
 
-<a href="https://github.com/iam-priyanshu-sharma/github-readme-activity-graph"><img alt="Priyanshu Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam-priyanshu-sharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/iam-priyanshu-sharma/github-readme-activity-graph"><img alt="Priyanshu Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam-priyanshu-sharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 
