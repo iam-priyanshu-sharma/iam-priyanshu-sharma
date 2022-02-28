@@ -92,11 +92,15 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iam-priyanshu-sharma&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727" height="400"/></a>
 
  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt" height="400"/></a>
+  
+<a href="https://github.com/iam-priyanshu-sharma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=merko&show_icons=true" height="400"/></a>  
+       
+<!--  [![Priyanshu Sharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=merko)](https://github.com/iam-priyanshu-sharma/github-readme-stats)       -->
        
 <p align="center" width="100%">
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&show_icons=true&theme=tokyonight">
 </p>
-
+      
  <img src="https://media2.giphy.com/media/tOgfteqFgyiG3TsqBq/giphy.gif?cid=5a38a5a2gdd5o2l0xqdpxf9pp7eijvaodtuj1a29mc2dhgue&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:50px;width:50px"/><b>Note:</b>***Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.***
 
 <br/>
