@@ -101,7 +101,7 @@
 
 <br/>
 
-<!-- <a href="https://github.com/iam-priyanshu-sharma/github-readme-activity-graph"><img alt="Priyanshu Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam-priyanshu-sharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+ <a href="https://github.com/iam-priyanshu-sharma/github-readme-activity-graph"><img alt="Priyanshu Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam-priyanshu-sharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
