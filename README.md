@@ -93,7 +93,7 @@
 
  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt" height="400"/></a>
   
-<a href="https://github.com/iam-priyanshu-sharma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=merko&show_icons=true" height="400"/></a>  
+<!-- <a href="https://github.com/iam-priyanshu-sharma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=merko&show_icons=true" height="400"/></a>  -->
        
 <!--  [![Priyanshu Sharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=merko)](https://github.com/iam-priyanshu-sharma/github-readme-stats)       -->
        
