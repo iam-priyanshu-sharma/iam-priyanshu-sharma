@@ -114,7 +114,7 @@
 </p>-->
  
 <p align="center" width="100%"> 
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&layout=compact&langs_count=9&theme=tokyonight">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&layout=compact&langs_count=10&theme=tokyonight">
 </p>   
       
  <img src="https://media2.giphy.com/media/tOgfteqFgyiG3TsqBq/giphy.gif?cid=5a38a5a2gdd5o2l0xqdpxf9pp7eijvaodtuj1a29mc2dhgue&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:50px;width:50px"/><b>Note:</b>***Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.***
