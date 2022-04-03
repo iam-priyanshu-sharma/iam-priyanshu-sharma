@@ -66,7 +66,7 @@
 <a href = "https://https://discordapp.com/users/570961716800782358/"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
    <img src="https://img.icons8.com/fluency/48/000000/xbox.png"/>
    <img src="https://img.icons8.com/fluency/48/000000/epic-games.png"/>
-  
+<a href = "https://steamcommunity.com/id/iam_priyanshu_sharma/"><img src="https://img.icons8.com/cute-clipart/48/000000/steam.png/"/></a>  
 </p>
 
 ## <img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:50px;width:50px"/> Views and Followers
