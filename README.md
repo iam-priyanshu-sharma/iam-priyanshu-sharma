@@ -52,6 +52,8 @@
    <a href="https://atom.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/atom-editor.png"/></a>
    <a href="https://www.eclipse.org/eclipseide/" target="_blank"><img src="https://img.icons8.com/office/48/000000/java-eclipse.png"/></a>
    <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/jetbrains.png"/>
+   <a href="https://www.jetbrains.com/idea/"/><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a>
+   <a href="https://www.jetbrains.com/pycharm/"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a> 
    <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/> 
    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"       height="45"/>   
    <a href="https://replit.com/~" target="_blank"><img src="https://user-images.githubusercontent.com/77437944/157877416-ab187dbc-127f-495c-ac2a-9ad844d4d83b.png" width="65"           height="55"/>
