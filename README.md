@@ -32,8 +32,10 @@
 
 <p align="left"> 
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+   <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a> 
    <a href="https://www.oracle.com/in/java/technologies/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
    <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+   <a href="https://www.r-project.org/" target="_blank"><img src="https://img.icons8.com/external-becris-lineal-color-becris/48/000000/external-r-data-science-becris-lineal-color-becris.png"/></a>    
    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
@@ -47,6 +49,9 @@
    <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
    <a href="https://visualstudio.microsoft.com/vs/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/></a>
+   <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/></a>
+   <a href="https://jupyter.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a> 
+   <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.icons8.com/nolan/48/virtualbox.png"/></a> 
    <a href="https://ubuntu.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
    <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/github.png"/></a>
    <a href="https://atom.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/atom-editor.png"/></a>
@@ -58,7 +63,8 @@
    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"       height="45"/>   
    <a href="https://replit.com/~" target="_blank"><img src="https://user-images.githubusercontent.com/77437944/157877416-ab187dbc-127f-495c-ac2a-9ad844d4d83b.png" width="65"           height="55"/>
     <a href="https://gitpod.io/" target="_blank"><img src="https://user-images.githubusercontent.com/77437944/157876894-9422bc96-c1dd-466b-b8a9-e18af3048a2d.png"/>   
-    <a href="https://www.gitkraken.com/" target="_blank"><img src="https://img.icons8.com/windows/54/000000/gitkraken.png"/>   
+    <a href="https://www.gitkraken.com/" target="_blank"><img src="https://img.icons8.com/windows/54/000000/gitkraken.png"/>  
+   <a href="https://www.rstudio.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/rstudio.png"/></a>     
 </p>
     
 ## <div><img src="https://media4.giphy.com/media/Tergixq5niQVcyJS2D/giphy.gif?cid=5a38a5a2egvz69aofqkegkrf0fyel7czjp7nkl27nqak38a3&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:30px;width:40px"/>Connect with me:
@@ -94,8 +100,14 @@
  <a href="https://github.com/iam-priyanshu-sharma/C-Program-s"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=C-Program-s&theme=gruvbox"/>
 </a>     
 </a>
- <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Data-Structure-Program-s&theme=onedark"/>
+ <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Data-Structure-Program-s&theme=onedark"/>
 </a>  
+</a>
+ <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Beginning-C-plus-plus-Programming-From-Beginner-to-Beyond&theme=cobalt"/>
+</a>
+</a>
+ <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Java-Programming-Masterclass-covering-Java-11-and-Java-17&theme=merko"/>
+</a>       
 
 
 ## <img src="https://media1.giphy.com/media/WKVayVkGMJkFPQxm1W/giphy.gif?cid=5a38a5a2rq5wvifalaz7wy87fb4j1uns00uodu2lbywz2u3f&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:50px"/>My Github Stats 
@@ -108,7 +120,10 @@
 
  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt" height="400"/></a>
   
-<!-- <a href="https://github.com/iam-priyanshu-sharma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=merko&show_icons=true" height="400"/></a>  -->
+<a href="https://github.com/iam-priyanshu-sharma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=merko&show_icons=true" height="400"/></a> 
+ 
+       
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
        
 <!--  [![Priyanshu Sharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=merko)](https://github.com/iam-priyanshu-sharma/github-readme-stats)       -->
        
@@ -117,7 +132,7 @@
 </p>-->
  
 <p align="center" width="100%"> 
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&layout=compact&langs_count=9&theme=tokyonight">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&layout=compact&langs_count=10&theme=tokyonight">
 </p>   
       
  <img src="https://media2.giphy.com/media/tOgfteqFgyiG3TsqBq/giphy.gif?cid=5a38a5a2gdd5o2l0xqdpxf9pp7eijvaodtuj1a29mc2dhgue&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:50px;width:50px"/><b>Note:</b>***Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.***
