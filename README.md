@@ -90,7 +90,7 @@
 - <img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:30px;width:30px"/> **"Jab koi pyaar karta hai na, toh love stories banti hain. Lekin jab koi pyaar nibhaata hai toh fairytales banti hain. Aur agar aapko ek fairytale mein jeena hai toh thodi himmat karni padegi."**<img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:30px;width:30px"/>
 
 <p align="center" width="100%">
-    <img width="33%" src="https://media1.giphy.com/media/26n6V5D3LWkDxj5GE/200.gif?cid=5a38a5a288xr872o6lt45psj8cqpf63nh4rs1en6vodd4mh4&amp;rid=200.gif&amp;ct=g">
+    <img width="50%" src="https://media1.giphy.com/media/26n6V5D3LWkDxj5GE/200.gif?cid=5a38a5a288xr872o6lt45psj8cqpf63nh4rs1en6vodd4mh4&amp;rid=200.gif&amp;ct=g">
 </p>
 
 ![wallpaperflare com_wallpaper (4)p](https://user-images.githubusercontent.com/77437944/151976759-5f3e9225-6298-4b7d-946e-86bfe93d11cc.jpg)
@@ -113,7 +113,7 @@
 ## <img src="https://media1.giphy.com/media/WKVayVkGMJkFPQxm1W/giphy.gif?cid=5a38a5a2rq5wvifalaz7wy87fb4j1uns00uodu2lbywz2u3f&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:50px"/>My Github Stats 
 
 <p align="center" width="100%">
-    <img width="22%" src="https://media4.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=5a38a5a247fekddrx4b1zqdchg9m5b5kc672ijm0ecek5abz&amp;rid=giphy.gif&amp;ct=s">
+    <img width="40%" src="https://media4.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=5a38a5a247fekddrx4b1zqdchg9m5b5kc672ijm0ecek5abz&amp;rid=giphy.gif&amp;ct=s">
 </p>
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iam-priyanshu-sharma&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727" height="400"/></a>
