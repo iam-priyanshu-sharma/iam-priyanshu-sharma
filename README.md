@@ -14,9 +14,9 @@
 
 ## <img src="https://media3.giphy.com/media/Q6xFPLfzfsgKoKDV60/200w.gif?cid=5a38a5a23d733fc3961e928c8f79405138ba6858798f7bf5&amp;rid=200w.gif&amp;ct=g" style="border:0;height:40px;width:40px"/>About Me
 
-- <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently working on [The Web Developer Bootcamp 2022](https://www.udemy.com/share/101W9C3@e2v9CqIr6bJFbusx3TyNbAEivM3-y67uqoYJIGyrbwV75ModPb5I8rVoV-dhbx9J4Q==/)
+- <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently working on [IITM's B.Sc In Programming And Data Science Qualifier](https://onlinedegree.iitm.ac.in/index.html)
 
-- <img src="https://media3.giphy.com/media/FuVHdn9ezclUiaVqIT/giphy.gif?cid=5a38a5a2oszknhlpwecffdir01y9xs8ym6mx2rb18one0ryc&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently learning **Data Structures and Algorithms.**
+- <img src="https://media3.giphy.com/media/FuVHdn9ezclUiaVqIT/giphy.gif?cid=5a38a5a2oszknhlpwecffdir01y9xs8ym6mx2rb18one0ryc&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently learning **C language and Data Structures and Algorithms through C.**
 
 - <img src="https://media3.giphy.com/media/U57K09qEYWKK20jmaK/giphy.gif?cid=5a38a5a2572rtyji218qpzndeggciobuptj16zz0z217oq31&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I’m looking to collaborate on **OpenSource Projects**
 
