@@ -14,7 +14,7 @@
 
 ## <img src="https://media3.giphy.com/media/Q6xFPLfzfsgKoKDV60/200w.gif?cid=5a38a5a23d733fc3961e928c8f79405138ba6858798f7bf5&amp;rid=200w.gif&amp;ct=g" style="border:0;height:40px;width:40px"/>About Me
 
-- <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently working on [IITM's Bachelor of Science (BS) degree in Data Science and Applications Qualifier](https://onlinedegree.iitm.ac.in/index.html)
+- <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently working on **[IITM's Bachelor of Science (BS) degree in Data Science and Applications Qualifier](https://onlinedegree.iitm.ac.in/index.html)**
 
 - <img src="https://media3.giphy.com/media/FuVHdn9ezclUiaVqIT/giphy.gif?cid=5a38a5a2oszknhlpwecffdir01y9xs8ym6mx2rb18one0ryc&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently learning **C++**
 
