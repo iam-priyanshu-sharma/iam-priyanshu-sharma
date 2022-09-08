@@ -61,7 +61,7 @@
    <a href="https://www.jetbrains.com/pycharm/"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a> 
    <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/> 
    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"       height="45"/>   
-   <a href="https://replit.com/~" target="_blank"><img src="https://user-images.githubusercontent.com/77437944/157877416-ab187dbc-127f-495c-ac2a-9ad844d4d83b.png" width="65"           height="55"/>
+   <a href="https://replit.com/@iam-priyanshu-sharma" target="_blank"><img src="https://user-images.githubusercontent.com/77437944/157877416-ab187dbc-127f-495c-ac2a-9ad844d4d83b.png" width="65"           height="55"/>
     <a href="https://gitpod.io/" target="_blank"><img src="https://user-images.githubusercontent.com/77437944/157876894-9422bc96-c1dd-466b-b8a9-e18af3048a2d.png"/>   
     <a href="https://www.gitkraken.com/" target="_blank"><img src="https://img.icons8.com/windows/54/000000/gitkraken.png"/>  
    <a href="https://www.rstudio.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/rstudio.png"/></a>     
