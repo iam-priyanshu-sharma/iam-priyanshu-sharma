@@ -39,7 +39,7 @@
    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="45"/> 
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" height="45"/> 
          
  </p>   
        
@@ -60,8 +60,8 @@
    <a href="https://www.jetbrains.com/idea/"/><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a>
    <a href="https://www.jetbrains.com/pycharm/"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a> 
    <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/> 
-   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"       height="45"/>   
-   <a href="https://replit.com/@iam-priyanshu-sharma" target="_blank"><img src="https://user-images.githubusercontent.com/77437944/157877416-ab187dbc-127f-495c-ac2a-9ad844d4d83b.png" width="65"           height="55"/>
+   <a href="https://www.linux.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/77437944/191386588-202fb095-0276-4223-89af-67b7d342750f.gif" width="40" height="45"/>
+<a href="https://replit.com/@iam-priyanshu-sharma" target="_blank"><img src="https://user-images.githubusercontent.com/77437944/157877416-ab187dbc-127f-495c-ac2a-9ad844d4d83b.png" width="65" height="55"/>
     <a href="https://gitpod.io/" target="_blank"><img src="https://user-images.githubusercontent.com/77437944/157876894-9422bc96-c1dd-466b-b8a9-e18af3048a2d.png"/>   
     <a href="https://www.gitkraken.com/" target="_blank"><img src="https://img.icons8.com/windows/54/000000/gitkraken.png"/>  
    <a href="https://www.rstudio.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/rstudio.png"/></a>     
