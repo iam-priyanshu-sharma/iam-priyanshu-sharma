@@ -1,8 +1,9 @@
-    
+
+   
 <p align="center" width="100%">
     <img width="80%" src="https://media2.giphy.com/media/Sv9TC4p8k8DDx28KRO/200.gif?cid=5a38a5a20s0euv4b3jcjjt9n0t2rhye7q2746a911pbqjiag&amp;rid=200.gif&amp;ct=ts">
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu Sharma®™, Aka the HeArT々HaCKeR®™</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/77437944/191389342-83d871d5-81f5-4959-9aa6-c316e142f11a.gif" width="50px">, I'm Priyanshu Sharma®™, Aka the HeArT々HaCKeR®™</h1>
 <h3 align="center">I'm a passionate Student from India.</h3>
 
  ## <img src="https://media0.giphy.com/media/hUBK87nOa6j16/giphy.gif?cid=5a38a5a2zhxptqdnkmny1pq3aqctpctdw2o4s7yr8y8dtzon&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:40px"/> GitHub Profile Trophy
