@@ -15,7 +15,7 @@
 
 ## <img src="https://media3.giphy.com/media/Q6xFPLfzfsgKoKDV60/200w.gif?cid=5a38a5a23d733fc3961e928c8f79405138ba6858798f7bf5&amp;rid=200w.gif&amp;ct=g" style="border:0;height:40px;width:40px"/>About Me
 
-- <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently working on **[IITM's Bachelor of Science (BS) degree in Data Science and Applications Qualifier](https://onlinedegree.iitm.ac.in/index.html)**
+- <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently working on **How To Improve My Skills? Through Learning New Programming Languages , Different Courses And New Technologies In CS Field.**
 
 - <img src="https://media3.giphy.com/media/FuVHdn9ezclUiaVqIT/giphy.gif?cid=5a38a5a2oszknhlpwecffdir01y9xs8ym6mx2rb18one0ryc&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently learning **C++**
 
@@ -104,10 +104,10 @@
  <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Data-Structure-Program-s&theme=onedark"/>
 </a>  
 </a>
- <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Beginning-C-plus-plus-Programming-From-Beginner-to-Beyond&theme=cobalt"/>
+ <a href="https://github.com/iam-priyanshu-sharma/C-Plus-Plus-Programs"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=C-Plus-Plus-Programs&theme=cobalt"/>
 </a>
 </a>
- <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Java-Programming-Masterclass-covering-Java-11-and-Java-17&theme=merko"/>
+ <a href="https://github.com/iam-priyanshu-sharma/Java-Programming-Masterclass-covering-Java-11-and-Java-17"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Java-Programming-Masterclass-covering-Java-11-and-Java-17&theme=merko"/>
 </a>       
 
 
