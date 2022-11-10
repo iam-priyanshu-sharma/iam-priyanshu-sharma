@@ -77,6 +77,7 @@
    <img src="https://img.icons8.com/fluency/48/000000/xbox.png"/>
    <img src="https://img.icons8.com/fluency/48/000000/epic-games.png"/>
 <a href = "https://steamcommunity.com/id/iam_priyanshu_sharma/"><img src="https://img.icons8.com/cute-clipart/48/000000/steam.png/"/></a>  
+<a href = "https://www.hackerrank.com/iam_priyanshu" tagrget="_blank"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png"/></a>
 </p>
 
 ## <img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:50px;width:50px"/> Views and Followers
