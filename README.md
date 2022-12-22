@@ -72,12 +72,12 @@
 <p align="left"> 
 
 <a href = "https://www.linkedin.com/in/iam-priyanshu-sharma"><img src="https://img.icons8.com/cute-clipart/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/iam.priyanshu.sharma/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/iam.priyanshu.sharma/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> 
 <a href = "https://https://discordapp.com/users/570961716800782358/"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
-   <img src="https://img.icons8.com/fluency/48/000000/xbox.png"/>
-   <img src="https://img.icons8.com/fluency/48/000000/epic-games.png"/>
-<a href = "https://steamcommunity.com/id/iam_priyanshu_sharma/"><img src="https://img.icons8.com/cute-clipart/48/000000/steam.png/"/></a>  
-<a href = "https://www.hackerrank.com/iam_priyanshu" tagrget="_blank"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png"/></a>
+<img src="https://img.icons8.com/fluency/48/000000/xbox.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/epic-games.png"/>
+<a href = "https://steamcommunity.com/id/iam_priyanshu_sharma/"><img src="https://img.icons8.com/nolan/48/steam--v1.png"/></a>  
+<a href = "https://www.hackerrank.com/iam_priyanshu"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png"/></a>
 <a href = "https://codeforces.com/profile/iam_priyanshu_sharma"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a> 
 </p>
 
