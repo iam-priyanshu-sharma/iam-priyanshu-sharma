@@ -49,7 +49,7 @@
 <p align="left"> 
    <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
-   <a href="https://visualstudio.microsoft.com/vs/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/></a>
+   <a href="https://visualstudio.microsoft.com/vs/" target="_blank"><img src="https://img.icons8.com/nolan/48/visual-studio.png"/></a>
    <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/></a>
    <a href="https://jupyter.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a> 
    <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.icons8.com/nolan/48/virtualbox.png"/></a> 
