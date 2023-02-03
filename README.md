@@ -76,7 +76,7 @@
 <img src="https://img.icons8.com/fluency/48/000000/xbox.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/epic-games.png"/>
 <a href = "https://steamcommunity.com/id/iam_priyanshu_sharma/"><img src="https://img.icons8.com/nolan/48/steam--v1.png"/></a>  
-<a herf = "https://www.freecodecamp.org/iam_priyanshu_sharma"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-green-tal-revivo.png"/></a>
+<a href = "https://www.freecodecamp.org/iam_priyanshu_sharma/"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-green-tal-revivo.png"/></a>
 <a href = "https://www.hackerrank.com/iam_priyanshu"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png"/></a>
 <a href = "https://codeforces.com/profile/iam_priyanshu_sharma"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a> 
  <a href = "https://leetcode.com/iam-priyanshu-sharma/"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-green-tal-revivo.png"/></a>
