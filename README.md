@@ -70,15 +70,16 @@
     
 ## <div><img src="https://media4.giphy.com/media/Tergixq5niQVcyJS2D/giphy.gif?cid=5a38a5a2egvz69aofqkegkrf0fyel7czjp7nkl27nqak38a3&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:30px;width:40px"/>Connect with me:
 <p align="left"> 
-
 <a href = "https://www.linkedin.com/in/iam-priyanshu-sharma"><img src="https://img.icons8.com/cute-clipart/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/iam.priyanshu.sharma/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> 
-<a href = "https://https://discordapp.com/users/570961716800782358/"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
+<a href = "https://https://discordapp.com/users/Heสrτ々HสcҜer#9385/"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
 <img src="https://img.icons8.com/fluency/48/000000/xbox.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/epic-games.png"/>
 <a href = "https://steamcommunity.com/id/iam_priyanshu_sharma/"><img src="https://img.icons8.com/nolan/48/steam--v1.png"/></a>  
+<a herf = "https://www.freecodecamp.org/iam_priyanshu_sharma"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-green-tal-revivo.png"/></a>
 <a href = "https://www.hackerrank.com/iam_priyanshu"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png"/></a>
 <a href = "https://codeforces.com/profile/iam_priyanshu_sharma"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a> 
+ <a href = "https://leetcode.com/iam-priyanshu-sharma/"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-green-tal-revivo.png"/></a>
 </p>
 
 ## <img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:50px;width:50px"/> Views and Followers
