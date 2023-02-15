@@ -80,6 +80,7 @@
 <a href = "https://www.hackerrank.com/iam_priyanshu"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png"/></a>
 <a href = "https://codeforces.com/profile/iam_priyanshu_sharma"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png"/></a> 
  <a href = "https://leetcode.com/iam-priyanshu-sharma/"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-green-tal-revivo.png"/></a>
+ <a href = "https://stackoverflow.com/users/19811633/he%e0%b8%aar%cf%84%e3%80%85h%e0%b8%aac%d2%9cer"><img src="https://img.icons8.com/color/48/null/stackoverflow.png"/></a>
 </p>
 
 ## <img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:50px;width:50px"/> Views and Followers
@@ -100,18 +101,18 @@
 ![wallpaperflare com_wallpaper (4)p](https://user-images.githubusercontent.com/77437944/151976759-5f3e9225-6298-4b7d-946e-86bfe93d11cc.jpg)
 
 ## <img src="https://media4.giphy.com/media/FGQ1LmY31WBvPq55q1/200w.gif?cid=5a38a5a2e87593e248da80ffb1b05ea77247d9c65b74ebad&amp;rid=200w.gif&amp;ct=g" style="border:0;height:60px;width:60px"/>Top Repositories
-</a>
- <a href="https://github.com/iam-priyanshu-sharma/C-Program-s"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=C-Program-s&theme=gruvbox"/>
-</a>     
-</a>
- <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="centre" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Data-Structure-Program-s&theme=onedark"/>
-</a>  
-</a>
- <a href="https://github.com/iam-priyanshu-sharma/C-Plus-Plus-Programs"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=C-Plus-Plus-Programs&theme=cobalt"/>
-</a>
-</a>
- <a href="https://github.com/iam-priyanshu-sharma/JAVA-Program-s"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=JAVA-Program-s&theme=merko"/>
-</a>       
+
+<p align ="left">
+       
+ <a href="https://github.com/iam-priyanshu-sharma/C-Program-s"><img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=C-Program-s&theme=gruvbox"/></a>     
+
+ <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Data-Structure-Program-s&theme=onedark"/></a>  
+
+ <a href="https://github.com/iam-priyanshu-sharma/C-Plus-Plus-Programs"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=C-Plus-Plus-Programs&theme=cobalt"/></a>
+
+ <a href="https://github.com/iam-priyanshu-sharma/JAVA-Program-s"><img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=JAVA-Program-s&theme=merko"/></a>  
+      
+</p>      
 
 
 ## <img src="https://media1.giphy.com/media/WKVayVkGMJkFPQxm1W/giphy.gif?cid=5a38a5a2rq5wvifalaz7wy87fb4j1uns00uodu2lbywz2u3f&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:50px"/>My Github Stats 
@@ -122,7 +123,7 @@
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iam-priyanshu-sharma&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727" height="400"/></a>
 
- <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt" height="400"/></a>
+ <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt" height="422"/></a>
   
 <!-- <a href="https://github.com/iam-priyanshu-sharma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=merko&show_icons=true" height="400"/></a>  -->
  
