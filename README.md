@@ -126,15 +126,17 @@
 ## <img src="https://media1.giphy.com/media/WKVayVkGMJkFPQxm1W/giphy.gif?cid=5a38a5a2rq5wvifalaz7wy87fb4j1uns00uodu2lbywz2u3f&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:50px"/>My Github Stats 
 
 <p align="center" width="100%">
-    <img width="20%" src="https://media4.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=5a38a5a247fekddrx4b1zqdchg9m5b5kc672ijm0ecek5abz&amp;rid=giphy.gif&amp;ct=s">
+    <img width="30%" src="https://media4.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=5a38a5a247fekddrx4b1zqdchg9m5b5kc672ijm0ecek5abz&amp;rid=giphy.gif&amp;ct=s">
 </p>
 
 <!-- <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iam-priyanshu-sharma&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727" height="400"/></a> -->
 
 <p align="center" width="100%"> 
-    <img width="46%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=iam-priyanshu-sharma&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727">
-   
-   <img width="46%" align="right" src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt">
+    <img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iam-priyanshu-sharma&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727">
+</p>   
+       
+<p align="center" width="100%">
+   <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt">
 </p> 
        
 <!--  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt" height="422"/></a> -->
@@ -156,10 +158,12 @@
  
 <p align="center" width="100%"> 
     <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&layout=compact&langs_count=10&theme=tokyonight">
-</p>   
+   
       
  <img src="https://media2.giphy.com/media/tOgfteqFgyiG3TsqBq/giphy.gif?cid=5a38a5a2gdd5o2l0xqdpxf9pp7eijvaodtuj1a29mc2dhgue&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:50px;width:50px"/><b>Note:</b>***Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.***
 
+</p>
+   
 <br/>
 
 <!--  <a href="https://github.com/iam-priyanshu-sharma/github-readme-activity-graph"><img alt="Priyanshu Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam-priyanshu-sharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
@@ -175,7 +179,7 @@
 </p> -->
    
 <p align="center" width="100%">
-    <img width="50%" src="https://user-images.githubusercontent.com/77437944/152090295-7c7fee7e-4b65-44d2-ae08-870c6b85a3bc.gif">
+    <img width="50%" src="https://cdn.quotesgram.com/img/12/19/1245769529-thank-you-4-yur-visit.gif">
 </p>
 
        
