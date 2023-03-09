@@ -1,6 +1,4 @@
-
-   
-<p align="center" width="100%">
+   <p align="center" width="100%">
     <img width="80%" src="https://media2.giphy.com/media/Sv9TC4p8k8DDx28KRO/200.gif?cid=5a38a5a20s0euv4b3jcjjt9n0t2rhye7q2746a911pbqjiag&amp;rid=200.gif&amp;ct=ts">
 </p>
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/77437944/191389342-83d871d5-81f5-4959-9aa6-c316e142f11a.gif" width="50px">, I'm Priyanshu Sharma®™, Aka the HeArT々HaCKeR®™</h1>
@@ -146,10 +144,16 @@
 
 <!--  <a href="https://github.com/iam-priyanshu-sharma/github-readme-activity-graph"><img alt="Priyanshu Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam-priyanshu-sharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
       
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iam-priyanshu-sharma&theme=merko)](https://github.com/iam-priyanshu-sharma/github-readme-activity-graph)      
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iam-priyanshu-sharma&theme=merko)](https://github.com/iam-priyanshu-sharma/github-readme-activity-graph)   
 <br/>
+       
+![github-wrapped](https://user-images.githubusercontent.com/77437944/224012997-55a906bc-5a12-42bc-989a-256e76f88fd5.png)
 
+       
+<!-- <p align="center width="100%">
+   <img width="100" scr="https://user-images.githubusercontent.com/77437944/224012997-55a906bc-5a12-42bc-989a-256e76f88fd5.png">
+</p> -->
+   
 <p align="center" width="100%">
     <img width="50%" src="https://user-images.githubusercontent.com/77437944/152090295-7c7fee7e-4b65-44d2-ae08-870c6b85a3bc.gif">
 </p>
