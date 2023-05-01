@@ -15,7 +15,7 @@
 
 - <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently working on **How To Improve My Skills? Through Learning New Programming Languages , Different Courses And New Technologies In CS Field.**
 
-- <img src="https://media3.giphy.com/media/FuVHdn9ezclUiaVqIT/giphy.gif?cid=5a38a5a2oszknhlpwecffdir01y9xs8ym6mx2rb18one0ryc&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently learning **JAVA**
+- <img src="https://media3.giphy.com/media/FuVHdn9ezclUiaVqIT/giphy.gif?cid=5a38a5a2oszknhlpwecffdir01y9xs8ym6mx2rb18one0ryc&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently learning **Python & Web Devlopment(Full Stack)**
 
 - <img src="https://media3.giphy.com/media/U57K09qEYWKK20jmaK/giphy.gif?cid=5a38a5a2572rtyji218qpzndeggciobuptj16zz0z217oq31&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I’m looking to collaborate on **OpenSource Projects**
 
