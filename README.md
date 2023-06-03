@@ -168,7 +168,10 @@
 
 <!--  <a href="https://github.com/iam-priyanshu-sharma/github-readme-activity-graph"><img alt="Priyanshu Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam-priyanshu-sharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
       
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iam-priyanshu-sharma&theme=merko)](https://github.com/iam-priyanshu-sharma/github-readme-activity-graph)   
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iam-priyanshu-sharma&theme=merko)](https://github.com/iam-priyanshu-sharma/github-readme-activity-graph)    -->
+       
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iam-priyanshu-sharma&theme=xcode)](https://github.com/iam-priyanshu-sharma/github-readme-activity-graph)
+       
 <br/>
        
 ![github-wrapped](https://user-images.githubusercontent.com/77437944/224012997-55a906bc-5a12-42bc-989a-256e76f88fd5.png)
