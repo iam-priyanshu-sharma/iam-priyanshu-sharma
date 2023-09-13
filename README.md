@@ -42,8 +42,10 @@
       
  ## <img src="https://media2.giphy.com/media/Ieo88333eatH73xKQG/200w.gif?cid=5a38a5a2a1b4cd8eebcb5ddf0cac30559c64754c815f8648&amp;rid=200w.gif&amp;ct=g&amp;ejg=103&amp;ejv=default" style="border:0;height:45px;width:40px"/>Frameworks :
       
- <p align="left">
-     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" height="45"/>     
+<p align="left">
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" height="45"/></a>
+
+<a href="https://www.javatpoint.com/flask-tutorial" target="_blank"><img width="40" height="45" src="https://img.icons8.com/cute-clipart/64/flask.png" alt="flask"/></a>
 </p>
        
 ## <img src="https://media1.giphy.com/media/aJTIkVe75lNK1vsyoV/giphy.gif?cid=5a38a5a2h73pfx6jxeshvikttiwnwqazssn5jk82cqwabb81&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:45px;width:40px"/>Tools :
