@@ -32,21 +32,22 @@
 <p align="left"> 
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
    <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a> 
-   <a href="https://www.oracle.com/in/java/technologies/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
-   <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+   <a href="https://www.oracle.com/in/java/technologies/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/></a>
+   <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v2.png"/></a>
    <a href="https://www.r-project.org/" target="_blank"><img src="https://img.icons8.com/external-becris-lineal-color-becris/48/000000/external-r-data-science-becris-lineal-color-becris.png"/></a>    
    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> 
- </p>   
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> </a>
+</p>
       
  ## <img src="https://media2.giphy.com/media/Ieo88333eatH73xKQG/200w.gif?cid=5a38a5a2a1b4cd8eebcb5ddf0cac30559c64754c815f8648&amp;rid=200w.gif&amp;ct=g&amp;ejg=103&amp;ejv=default" style="border:0;height:45px;width:40px"/>Frameworks :
       
 <p align="left">
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" height="45"/></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" height="45"/></a>
 
-<a href="https://www.javatpoint.com/flask-tutorial" target="_blank"><img width="40" height="45" src="https://img.icons8.com/cute-clipart/64/flask.png" alt="flask"/></a>
+<a href="https://www.javatpoint.com/flask-tutorial" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/flask.png" width="40" height="45"/></a>
 </p>
+
        
 ## <img src="https://media1.giphy.com/media/aJTIkVe75lNK1vsyoV/giphy.gif?cid=5a38a5a2h73pfx6jxeshvikttiwnwqazssn5jk82cqwabb81&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:45px;width:40px"/>Tools :
        
