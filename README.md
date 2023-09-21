@@ -44,7 +44,6 @@
       
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" height="45"/></a>
-
 <a href="https://www.javatpoint.com/flask-tutorial" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/flask.png" width="40" height="45"/></a>
 </p>
 
@@ -136,7 +135,6 @@
     <img width="30%" src="https://media4.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=5a38a5a247fekddrx4b1zqdchg9m5b5kc672ijm0ecek5abz&amp;rid=giphy.gif&amp;ct=s">
 </p>
 
-<!-- <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iam-priyanshu-sharma&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727" height="400"/></a> -->
 
 <p align="center" width="100%"> 
     <img width="70%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iam-priyanshu-sharma&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&stroke=DD2727&fire=DD2727&currStreakNum=DD2727&sideLabels=DD2727&dates=DD2727">
@@ -145,30 +143,8 @@
 <p align="center" width="100%">
    <img width="70%" align="center" src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt">
 </p> 
-       
-<!--  <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt" height="422"/></a> -->
-
-<!--  <p align="right" width="100%"> 
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=iam-priyanshu-sharma&show_icons=true&theme=cobalt">
-</p>  -->
-  
-<!-- <a href="https://github.com/iam-priyanshu-sharma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=merko&show_icons=true" height="400"/></a>  -->
  
-       
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
-       
-<!--  [![Priyanshu Sharma's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=merko)](https://github.com/iam-priyanshu-sharma/github-readme-stats)       -->
-       
-<!-- <p align="center" width="100%"> 
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&langs_count=10&show_icons=true&theme=tokyonight">
-</p>-->
- 
-<p align="center" width="100%"> 
-<!--     <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&layout=compact&langs_count=10&theme=tokyonight"> -->
-   
-<!--    <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&layout=donut-vertical&langs_count=10&theme=tokyonight"> -->
-   
-<!--    <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&layout=donut&langs_count=10&theme=tokyonight"> -->
+<p align="center" width="100%">
    
    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-priyanshu-sharma&layout=pie&langs_count=10&theme=tokyonight">
    
@@ -178,10 +154,6 @@
 </p>
    
 <br/>
-
-<!--  <a href="https://github.com/iam-priyanshu-sharma/github-readme-activity-graph"><img alt="Priyanshu Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iam-priyanshu-sharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-      
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iam-priyanshu-sharma&theme=merko)](https://github.com/iam-priyanshu-sharma/github-readme-activity-graph)    -->
        
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iam-priyanshu-sharma&theme=xcode)](https://github.com/iam-priyanshu-sharma/github-readme-activity-graph)
        
@@ -189,10 +161,6 @@
        
 ![github-wrapped](https://user-images.githubusercontent.com/77437944/224012997-55a906bc-5a12-42bc-989a-256e76f88fd5.png)
 
-       
-<!-- <p align="center width="100%">
-   <img width="100" scr="https://user-images.githubusercontent.com/77437944/224012997-55a906bc-5a12-42bc-989a-256e76f88fd5.png">
-</p> -->
    
 <p align="center" width="100%">
     <img width="50%" src="https://cdn.quotesgram.com/img/12/19/1245769529-thank-you-4-yur-visit.gif">
