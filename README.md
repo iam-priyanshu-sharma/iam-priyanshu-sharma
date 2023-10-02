@@ -32,9 +32,9 @@
 <p align="left"> 
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
    <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a> 
+   <a href="https://www.w3schools.com/sql/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" alt="external-sql-computer-programming-flaticons-lineal-color-flat-icons"/></a>
    <a href="https://www.oracle.com/in/java/technologies/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/></a>
-   <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v2.png"/></a>
-   <a href="https://www.r-project.org/" target="_blank"><img src="https://img.icons8.com/external-becris-lineal-color-becris/48/000000/external-r-data-science-becris-lineal-color-becris.png"/></a>    
+   <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v2.png"/></a>    
    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> </a>
