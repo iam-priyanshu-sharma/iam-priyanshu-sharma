@@ -61,14 +61,14 @@
    <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/github.png"/></a>
    <a href="https://atom.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/atom-editor.png"/></a>
    <a href="https://www.eclipse.org/eclipseide/" target="_blank"><img src="https://img.icons8.com/office/48/000000/java-eclipse.png"/></a>
-   <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/jetbrains.png"/>
+   <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/jetbrains.png"/></a>
    <a href="https://www.jetbrains.com/idea/"/><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a>
    <a href="https://www.jetbrains.com/pycharm/"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a> 
-   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/> 
-   <a href="https://www.linux.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/77437944/191386588-202fb095-0276-4223-89af-67b7d342750f.gif" width="40" height="45"/>
-<a href="https://replit.com/@iam-priyanshu-sharma" target="_blank"><img src="https://user-images.githubusercontent.com/77437944/157877416-ab187dbc-127f-495c-ac2a-9ad844d4d83b.png" width="65" height="55"/>
-    <a href="https://gitpod.io/" target="_blank"><img src="https://user-images.githubusercontent.com/77437944/157876894-9422bc96-c1dd-466b-b8a9-e18af3048a2d.png"/>   
-    <a href="https://www.gitkraken.com/" target="_blank"><img src="https://img.icons8.com/windows/54/000000/gitkraken.png"/>  
+   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/></a>
+   <a href="https://www.linux.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/77437944/191386588-202fb095-0276-4223-89af-67b7d342750f.gif" width="40" height="45"/></a>
+<a href="https://replit.com/@iam-priyanshu-sharma" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/replit.png" alt="replit"/></a>
+    <a href="https://gitpod.io/" target="_blank"><img src="https://user-images.githubusercontent.com/77437944/157876894-9422bc96-c1dd-466b-b8a9-e18af3048a2d.png"/></a>
+    <a href="https://www.gitkraken.com/" target="_blank"><img src="https://img.icons8.com/windows/54/000000/gitkraken.png"/></a>  
    <a href="https://www.rstudio.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/rstudio.png"/></a>  
   <a href="https://codepen.io/"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-codepen-an-online-community-for-testing-and-showcasing-code-snippets-logo-green-tal-revivo.png"/></a>
   <a href="https://app.netlify.com/"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png"/></a>
