@@ -13,9 +13,18 @@
 
 ## <img src="https://media3.giphy.com/media/Q6xFPLfzfsgKoKDV60/200w.gif?cid=5a38a5a23d733fc3961e928c8f79405138ba6858798f7bf5&amp;rid=200w.gif&amp;ct=g" style="border:0;height:40px;width:40px"/>About Me
 
-- <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently working on **How To Improve My Skills? Through Learning New Programming Languages , Different Courses And New Technologies In CS Field.**
+- <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> I’m a **programmer** interested in **problem-solving and developing new software** that will add value to the community.
 
-- <img src="https://media3.giphy.com/media/FuVHdn9ezclUiaVqIT/giphy.gif?cid=5a38a5a2oszknhlpwecffdir01y9xs8ym6mx2rb18one0ryc&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently learning **Python & Full Stack Web Development(MERN)**
+- <img src="https://media1.giphy.com/media/UfCIyiIeTLV6TggFFN/giphy.gif?cid=5a38a5a2ee6ak8umx2vy7f5ozgbhe5ryo6tyst7ywiak5pao&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>As a **software developer**, I aim to **build solutions that can make human life easier in any way possible**.
+
+- <img src="https://media1.giphy.com/media/r1qAAEJwlI8nBCrIS6/giphy.gif?cid=5a38a5a2v4t8i53fzo9k2bfpg7bsk0gk0tp6v3nm0vm0xrut&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I have gained hands-on experience in **developing portfolio, to-do list, calculator, and password generator applications using Python, HTML, CSS, and JavaScript**.
+
+- <img src="https://media0.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif?cid=5a38a5a2zhn6xck66pzf5wyxmly94a1wb5gpkefydbzinayg&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I am always ready to learn **modern technologies** and implement them to current solutions to make them more **efficient and robust**.
+
+- <img src="https://media2.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=5a38a5a2ejq5gjt45jc9unxegdbgjrdnb6ukllikd0cw90mq&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I'm currently working on How to Improve My Skills? Through Learning **New Programming Languages, Different Courses, and New Technologies** in the CSE Field of Study.
+
+
+- <img src="https://media3.giphy.com/media/FuVHdn9ezclUiaVqIT/giphy.gif?cid=5a38a5a2oszknhlpwecffdir01y9xs8ym6mx2rb18one0ryc&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently learning **Full Stack Web Development(MERN)**
 
 - <img src="https://media3.giphy.com/media/U57K09qEYWKK20jmaK/giphy.gif?cid=5a38a5a2572rtyji218qpzndeggciobuptj16zz0z217oq31&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I’m looking to collaborate on **OpenSource Projects**
 
@@ -24,8 +33,10 @@
 - <img src="https://media2.giphy.com/media/9NGMn9GkHybZ41HtoX/giphy.gif?cid=5a38a5a2p554v5z47iajuom1g03ben0yj7kqlrjpue2eaqs3&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>Fun fact **I play games very often and I overthink on any topic and make my own dreams while sleeping.**
 
 - <img src="https://media3.giphy.com/media/USUIWSteF8DJoc5Snd/200w.gif?cid=5a38a5a2ac9a7c1e1468c901c343dbeadc838130f981ee35&amp;rid=200w.gif&amp;ct=g" style="border:0;height:20px;width:20px"/> I am't looking on help. 
+
 - <img src="https://media1.giphy.com/media/V36dWO4DvbCMjxCmOF/giphy.gif?cid=5a38a5a2t4paoo08l39svdqozfy4h6l2m032j810uetbio5b&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> My collections of **[Programming Ebooks...](https://1drv.ms/f/s!Aka7YN-UVbKRgYAkjt1MfxYZUl8vRg)**
 
+- <img src="https://media3.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=5a38a5a2ox0cevviuor208n8e1fdlfjjm154hi2eydtbiuq8&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> Join My **[Telegram Channel...](https://t.me/HeArT_HaCKeR_007)**.
 
 ## <img src="https://media0.giphy.com/media/vrBdyOzesMKM5Ntj0R/giphy.gif?cid=5a38a5a2pzj9k3nrm3rm52km7k6dt19kjoyahykzf71a4g2r&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:40px"/>Programming Languages :
 
@@ -159,7 +170,7 @@
        
 <br/>
        
-![github-wrapped](https://user-images.githubusercontent.com/77437944/224012997-55a906bc-5a12-42bc-989a-256e76f88fd5.png)
+![github-wrapped](https://github.com/iam-priyanshu-sharma/iam-priyanshu-sharma/assets/77437944/493fdf80-4322-40a7-90ea-c66d801e17d6)
 
    
 <p align="center" width="100%">
