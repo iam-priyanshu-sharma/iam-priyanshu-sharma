@@ -15,6 +15,8 @@
 
 - <img src="https://media3.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif?cid=5a38a5a2smzfxufopvsx5b12mcgj4lby388bjshcbyv2wddg&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> I’m a **programmer** interested in **problem-solving and developing new software** that will add value to the community.
 
+- <img src="https://media1.giphy.com/media/yFAuYYi9LYQNI8lmZo/giphy.gif?cid=5a38a5a2ln57cerr335tpcycpkkjvm7n00hl0p9ofj3x4b7w&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I also graduated from **Bachelor of Computer Applications degree** at **L.S. College, Muzaffarpur**, where I have honed my skills in **C, C++, Java, data structures, algorithms, and database management systems**. I am always eager to learn **new technologies and improve my programming abilities**. My goal is to become a **proficient and versatile software developer** who can solve complex problems and deliver value to users.
+
 - <img src="https://media1.giphy.com/media/UfCIyiIeTLV6TggFFN/giphy.gif?cid=5a38a5a2ee6ak8umx2vy7f5ozgbhe5ryo6tyst7ywiak5pao&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>As a **software developer**, I aim to **build solutions that can make human life easier in any way possible**.
 
 - <img src="https://media1.giphy.com/media/r1qAAEJwlI8nBCrIS6/giphy.gif?cid=5a38a5a2v4t8i53fzo9k2bfpg7bsk0gk0tp6v3nm0vm0xrut&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I have gained hands-on experience in **developing portfolio, to-do list, calculator, and password generator applications using Python, HTML, CSS, and JavaScript**.
@@ -36,7 +38,7 @@
 
 - <img src="https://media1.giphy.com/media/V36dWO4DvbCMjxCmOF/giphy.gif?cid=5a38a5a2t4paoo08l39svdqozfy4h6l2m032j810uetbio5b&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> My collections of **[Programming Ebooks...](https://1drv.ms/f/s!Aka7YN-UVbKRgYAkjt1MfxYZUl8vRg)**
 
-- <img src="https://media3.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=5a38a5a2ox0cevviuor208n8e1fdlfjjm154hi2eydtbiuq8&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> Join My **[Telegram Channel...](https://t.me/HeArT_HaCKeR_007)**.
+- <img src="https://media3.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=5a38a5a2ox0cevviuor208n8e1fdlfjjm154hi2eydtbiuq8&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> Join My **[Telegram Channel...](https://t.me/HeArT_HaCKeR_007)**
 
 ## <img src="https://media0.giphy.com/media/vrBdyOzesMKM5Ntj0R/giphy.gif?cid=5a38a5a2pzj9k3nrm3rm52km7k6dt19kjoyahykzf71a4g2r&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:40px"/>Programming Languages :
 
