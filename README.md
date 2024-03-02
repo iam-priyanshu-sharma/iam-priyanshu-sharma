@@ -36,7 +36,7 @@
 
 - <img src="https://media3.giphy.com/media/USUIWSteF8DJoc5Snd/200w.gif?cid=5a38a5a2ac9a7c1e1468c901c343dbeadc838130f981ee35&amp;rid=200w.gif&amp;ct=g" style="border:0;height:20px;width:20px"/> I am't looking on help. 
 
-- <img src="https://media1.giphy.com/media/V36dWO4DvbCMjxCmOF/giphy.gif?cid=5a38a5a2t4paoo08l39svdqozfy4h6l2m032j810uetbio5b&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> My collections of **[Programming Ebooks...](https://1drv.ms/f/s!Aka7YN-UVbKRgYAkjt1MfxYZUl8vRg)**
+<!-- -<img src="https://media1.giphy.com/media/V36dWO4DvbCMjxCmOF/giphy.gif?cid=5a38a5a2t4paoo08l39svdqozfy4h6l2m032j810uetbio5b&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> My collections of **[Programming Ebooks...](https://1drv.ms/f/s!Aka7YN-UVbKRgYAkjt1MfxYZUl8vRg)** -->
 
 - <img src="https://media3.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif?cid=5a38a5a2ox0cevviuor208n8e1fdlfjjm154hi2eydtbiuq8&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/> Join My **[Telegram Channel...](https://t.me/HeArT_HaCKeR_007)**
 
