@@ -124,20 +124,21 @@
 ![wallpaperflare com_wallpaper (4)p](https://user-images.githubusercontent.com/77437944/151976759-5f3e9225-6298-4b7d-946e-86bfe93d11cc.jpg)
 
 ## <img src="https://media4.giphy.com/media/FGQ1LmY31WBvPq55q1/200w.gif?cid=5a38a5a2e87593e248da80ffb1b05ea77247d9c65b74ebad&amp;rid=200w.gif&amp;ct=g" style="border:0;height:60px;width:60px"/>Top Repositories
-       
-<!-- <a href="https://github.com/iam-priyanshu-sharma/C-Program-s"><img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=C-Program-s&theme=gruvbox"/></a>     
 
- <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Data-Structure-Program-s&theme=onedark"/></a>  -->
+ <p align="left">      
+<!-- <a href="https://github.com/iam-priyanshu-sharma/C-Program-s"><img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=C-Program-s&theme=gruvbox"/></a> -->
 
- <a href="https://github.com/iam-priyanshu-sharma/GFG_CIPC_Problem_Solution"><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=GFG_CIPC_Problem_Solution&theme=cobalt"/></a>
+ <!-- <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Data-Structure-Program-s&theme=onedark"/></a> -->
+
+ <a href="https://github.com/iam-priyanshu-sharma/GFG_CIPC_Problem_Solution"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=GFG_CIPC_Problem_Solution&theme=cobalt"/></a>
 
 <!-- <a href="https://github.com/iam-priyanshu-sharma/JAVA-Program-s"><img align="center" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=JAVA-Program-s&theme=merko"/></a> 
    
- <a href="https://github.com/iam-priyanshu-sharma/Python-Program-s"><img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Python-Program-s&theme=tokyonight"/></a> 
+ <a href="https://github.com/iam-priyanshu-sharma/Python-Program-s"><img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Python-Program-s&theme=tokyonight"/></a> -->
    
- <a href="https://github.com/iam-priyanshu-sharma/Web-Development-Projects"><img align="right" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Web-Development-Projects&theme=radical"/></a> -->
+ <a href="https://github.com/iam-priyanshu-sharma/Web-Development-Projects"><img align="right" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Web-Development-Projects&theme=radical"/></a> 
       
-
+</p>
 
 ## <img src="https://media1.giphy.com/media/WKVayVkGMJkFPQxm1W/giphy.gif?cid=5a38a5a2rq5wvifalaz7wy87fb4j1uns00uodu2lbywz2u3f&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:50px"/>My Github Stats 
 
