@@ -67,25 +67,18 @@
    <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
    <a href="https://visualstudio.microsoft.com/vs/" target="_blank"><img src="https://img.icons8.com/nolan/48/visual-studio.png"/></a>
-   <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/></a>
+  <!-- <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/></a>-->
    <a href="https://jupyter.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a> 
    <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.icons8.com/nolan/48/virtualbox.png"/></a> 
    <a href="https://ubuntu.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/></a>
-   <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/nolan/48/github.png"/></a>
-   <a href="https://atom.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/atom-editor.png"/></a>
-   <a href="https://www.eclipse.org/eclipseide/" target="_blank"><img src="https://img.icons8.com/office/48/000000/java-eclipse.png"/></a>
-   <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/jetbrains.png"/></a>
    <a href="https://www.jetbrains.com/idea/"/><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a>
    <a href="https://www.jetbrains.com/pycharm/"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a> 
    <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/></a>
-   <a href="https://www.linux.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/77437944/191386588-202fb095-0276-4223-89af-67b7d342750f.gif" width="40" height="45"/></a>
-<a href="https://replit.com/@iam-priyanshu-sharma" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/replit.png" alt="replit"/></a>
-    <a href="https://gitpod.io/" target="_blank"><img src="https://user-images.githubusercontent.com/77437944/157876894-9422bc96-c1dd-466b-b8a9-e18af3048a2d.png"/></a>
-    <a href="https://www.gitkraken.com/" target="_blank"><img src="https://img.icons8.com/windows/54/000000/gitkraken.png"/></a>  
-   <a href="https://www.rstudio.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/rstudio.png"/></a>  
-  <a href="https://codepen.io/"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-codepen-an-online-community-for-testing-and-showcasing-code-snippets-logo-green-tal-revivo.png"/></a>
-  <a href="https://app.netlify.com/"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png"/></a>
-   <a href="https://cloud.mongodb.com/"><img src="https://img.icons8.com/color/48/null/mongodb.png"/></a> 
+   <a href="https://replit.com/@iam-priyanshu-sharma" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/replit.png" alt="replit"/></a>
+   <a href="https://gitpod.io/" target="_blank"><img src="https://user-images.githubusercontent.com/77437944/157876894-9422bc96-c1dd-466b-b8a9-e18af3048a2d.png"/></a>
+   <a href="https://www.gitkraken.com/" target="_blank"><img src="https://img.icons8.com/windows/54/000000/gitkraken.png"/></a>  
+   <a href="https://codepen.io/"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/null/external-codepen-an-online-community-for-testing-and-showcasing-code-snippets-logo-green-tal-revivo.png"/></a>
+   <a href="https://app.netlify.com/"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-filled-tal-revivo.png"/></a>
    <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/null/npm.png"/></a>
    <a href="https://gluonhq.com/products/scene-builder/"><img src="https://img.icons8.com/nolan/48/scene-builder.png"/></a>
 </p>
@@ -124,8 +117,7 @@
 ![wallpaperflare com_wallpaper (4)p](https://user-images.githubusercontent.com/77437944/151976759-5f3e9225-6298-4b7d-946e-86bfe93d11cc.jpg)
 
 ## <img src="https://media4.giphy.com/media/FGQ1LmY31WBvPq55q1/200w.gif?cid=5a38a5a2e87593e248da80ffb1b05ea77247d9c65b74ebad&amp;rid=200w.gif&amp;ct=g" style="border:0;height:60px;width:60px"/>Top Repositories
-
- <p align="left">      
+<p align="left">    
 <!-- <a href="https://github.com/iam-priyanshu-sharma/C-Program-s"><img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=C-Program-s&theme=gruvbox"/></a> -->
 
  <!-- <a href="https://github.com/iam-priyanshu-sharma/Data-Structure-Program-s"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Data-Structure-Program-s&theme=onedark"/></a> -->
@@ -136,9 +128,10 @@
    
  <a href="https://github.com/iam-priyanshu-sharma/Python-Program-s"><img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Python-Program-s&theme=tokyonight"/></a> -->
    
- <a href="https://github.com/iam-priyanshu-sharma/Web-Development-Projects"><img align="right" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Web-Development-Projects&theme=radical"/></a> 
-      
+ <a href="https://github.com/iam-priyanshu-sharma/Web-Development-Projects"><img align="centre" width="48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=iam-priyanshu-sharma&repo=Web-Development-Projects&theme=radical"/></a> 
 </p>
+
+
 
 ## <img src="https://media1.giphy.com/media/WKVayVkGMJkFPQxm1W/giphy.gif?cid=5a38a5a2rq5wvifalaz7wy87fb4j1uns00uodu2lbywz2u3f&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:50px"/>My Github Stats 
 
