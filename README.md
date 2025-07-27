@@ -19,14 +19,14 @@
 
 - <img src="https://media1.giphy.com/media/UfCIyiIeTLV6TggFFN/giphy.gif?cid=5a38a5a2ee6ak8umx2vy7f5ozgbhe5ryo6tyst7ywiak5pao&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>As a **software developer**, I aim to **build solutions that can make human life easier in any way possible**.
 
-- <img src="https://media1.giphy.com/media/r1qAAEJwlI8nBCrIS6/giphy.gif?cid=5a38a5a2v4t8i53fzo9k2bfpg7bsk0gk0tp6v3nm0vm0xrut&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I have gained hands-on experience in **developing portfolio, to-do list, calculator, and password generator applications using Python, HTML, CSS, and JavaScript**.
+- <img src="https://media1.giphy.com/media/r1qAAEJwlI8nBCrIS6/giphy.gif?cid=5a38a5a2v4t8i53fzo9k2bfpg7bsk0gk0tp6v3nm0vm0xrut&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I have gained hands-on experience in **developing portfolio, to-do list, calculator, Omnifood Project, Scholastikit Project and password generator applications using Python, HTML, CSS, and JavaScript**.
 
 - <img src="https://media0.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif?cid=5a38a5a2zhn6xck66pzf5wyxmly94a1wb5gpkefydbzinayg&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I am always ready to learn **modern technologies** and implement them to current solutions to make them more **efficient and robust**.
 
 - <img src="https://media2.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=5a38a5a2ejq5gjt45jc9unxegdbgjrdnb6ukllikd0cw90mq&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I'm currently working on How to Improve My Skills? Through Learning **New Programming Languages, Different Courses, and New Technologies** in the CSE Field of Study.
 
 
-- <img src="https://media3.giphy.com/media/FuVHdn9ezclUiaVqIT/giphy.gif?cid=5a38a5a2oszknhlpwecffdir01y9xs8ym6mx2rb18one0ryc&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently learning **Full Stack Web Development(MERN)**
+- <img src="https://media3.giphy.com/media/FuVHdn9ezclUiaVqIT/giphy.gif?cid=5a38a5a2oszknhlpwecffdir01y9xs8ym6mx2rb18one0ryc&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:20px"/>I’m currently willing to learn **Data Analytics**
 
 - <img src="https://media3.giphy.com/media/U57K09qEYWKK20jmaK/giphy.gif?cid=5a38a5a2572rtyji218qpzndeggciobuptj16zz0z217oq31&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:20px;width:30px"/>I’m looking to collaborate on **OpenSource Projects**
 
