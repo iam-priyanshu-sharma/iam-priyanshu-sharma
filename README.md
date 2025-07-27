@@ -108,7 +108,8 @@
 
 ## <img src="https://media1.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif?cid=5a38a5a2k3kaqtjtxf6mlamhsjjaes76fj063m1i4617wtoo&amp;rid=giphy.gif&amp;ct=s" style="border:0;height:40px;width:50px"/>Quote that motivates me:-
 -  <img src="https://media0.giphy.com/media/1ryvI707BC2n7pHhrL/200w.gif?cid=5a38a5a2f10160f3f50de7f9851ec74d407296f26651900d&amp;rid=200w.gif&amp;ct=s" style="border:0;height:30px;width:30px"/>**A person who never made a mistake never tried anything new.**<img src="https://media4.giphy.com/media/kgm1x63AjTnn9yyhXh/200w.gif?cid=5a38a5a220f09fe04fffbe8a9c7a000e5427eeb965bb42da&amp;rid=200w.gif&amp;ct=g" style="border:0;height:30px;width:30px"/>
-- <img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:30px;width:30px"/> **"Jab koi pyaar karta hai na, toh love stories banti hain. Lekin jab koi pyaar nibhaata hai toh fairytales banti hain. Aur agar aapko ek fairytale mein jeena hai toh thodi himmat karni padegi."**<img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:30px;width:30px"/>
+<!-- - <img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:30px;width:30px"/> **"Jab koi pyaar karta hai na, toh love stories banti hain. Lekin jab koi pyaar nibhaata hai toh fairytales banti hain. Aur agar aapko ek fairytale mein jeena hai toh thodi himmat karni padegi."**<img src="https://media1.giphy.com/media/YondZW6AMjgTEHevF0/200w.gif?cid=5a38a5a29fbe45326693d0bd1006d71fd7568cba7644b41a&amp;rid=200w.gif&amp;ct=g" style="border:0;height:30px;width:30px"/> -->
+- **🚩उद्धरेदात्मनात्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः।🚩**
 
 <p align="center" width="100%">
     <img width="40%" src="https://media1.giphy.com/media/26n6V5D3LWkDxj5GE/200.gif?cid=5a38a5a288xr872o6lt45psj8cqpf63nh4rs1en6vodd4mh4&amp;rid=200.gif&amp;ct=g">
@@ -163,7 +164,9 @@
        
 <br/>
        
-![github-wrapped](https://github.com/iam-priyanshu-sharma/iam-priyanshu-sharma/assets/77437944/493fdf80-4322-40a7-90ea-c66d801e17d6)
+<!-- ![github-wrapped](https://github.com/iam-priyanshu-sharma/iam-priyanshu-sharma/assets/77437944/493fdf80-4322-40a7-90ea-c66d801e17d6) -->
+<img width="1351" height="2050" alt="github-wrapped" src="https://github.com/user-attachments/assets/0b5dc371-6730-4947-8408-a0955fb29464" />
+
 
    
 <p align="center" width="100%">
